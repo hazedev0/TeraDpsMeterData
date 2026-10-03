@@ -30,7 +30,7 @@
 201	SMT_ADD_UNION_POLICY_POINT	You have earned {policyPoint} alliance policy points.
 201	SMT_ADMINTOOL_UNIONCHAT	[{UnionType}][{SendUser}] : {ChatString}
 203	SMT_ALREADY_EQUIP_UNIQUE_ITEM	You can only equip one copy of a unique item.
-203	SMT_ALREADY_EXIST_ATTACH_ITEM	You already have a crystal of that type equipped.
+203	SMT_ALREADY_EXIST_ATTACH_ITEM	You already have a augment of that type equipped.
 203	SMT_ALREADY_EXIST_ENCHANT_ITEM	There's already something in that slot.
 203	SMT_ALREADY_FIX_VEHICLE_BY_ENEMY	An opponent is already fixing the airship.
 203	SMT_ALREADY_HAS_RECIPE	You have already learned that.
@@ -85,10 +85,10 @@
 201	SMT_BATTLE_BUFF_DEBUFF	{AbnormalName} affects your abilities.
 203	SMT_BATTLE_BUFF_LEVEL_FAILED	A more powerful effect already exists. {AbnormalName} cannot apply.
 203	SMT_INHERITANCE_CANNOT_CHANGE_ITEM_SEALED_CANCEL	Unidentified items cannot be converted.
-203	SMT_INHERITANCE_CANNOT_CHANGE_ITEM_ARTIFACT_CANCEL	Items with crystals cannot be converted.
+203	SMT_INHERITANCE_CANNOT_CHANGE_ITEM_ARTIFACT_CANCEL	Items with augments cannot be converted.
 203	SMT_BATTLE_CANNOT_CHANGE_EQUIPPOS_IN_BATTLE	You can't equip or remove items right now.
-203	SMT_BATTLE_CANNOT_CUSTOMIZING_ITEM_CANCEL	You can't equip or remove crystals right now.
-203	SMT_BATTLE_CANNOT_CUSTOMIZING_ITEM_USE	You can't attach enhancement crystals right now.
+203	SMT_BATTLE_CANNOT_CUSTOMIZING_ITEM_CANCEL	You can't equip or remove augments right now.
+203	SMT_BATTLE_CANNOT_CUSTOMIZING_ITEM_USE	You can't attach enhancement augments right now.
 203	SMT_BATTLE_CANNOT_LEAVE_WORLD_IN_COMBAT	You can't teleport right now.
 203	SMT_BATTLE_CANNOT_MOVE_CHANNEL	You cannot change channels during combat.
 203	SMT_BATTLE_CANNOT_RESURRECT	You can't resurrect now.
@@ -299,7 +299,7 @@
 203	SMT_CANNOT_ADD_INVENTORY	You can't put that item in your inventory.
 203	SMT_CANNOT_ADD_MORE_BUFF_ABNORMALITY	{BuffedAbnormalName} cannot stack anymore. Please try again after the existing effect expires.
 203	SMT_CANNOT_ARTISAN_RESET_GRADE	{Item_Name} needed to reset crafting skill level.
-203	SMT_CANNOT_ATTACH_CUSTOMIZING_ITEM	You can't attach this crystal to your currently equipped gear.
+203	SMT_CANNOT_ATTACH_CUSTOMIZING_ITEM	You can't attach this augment to your currently equipped gear.
 203	SMT_CANNOT_BALLOT_WITH_THIS_ITEM	You can't vote with that.
 203	SMT_CANNOT_BATTLEFIELDMATCHING_ERROR	Reapers must be at least level 58 to enter the battleground.
 203	SMT_CANNOT_BUY_REPUTATION_ITEM	Your Reputation isn't high enough to purchase that item.
@@ -533,7 +533,7 @@
 203	SMT_CANT_TRADE_FREE_SERVICE_USER	You can't trade with that user.
 203	SMT_CANT_TRADE_NOT_CURSE_PLAYER	Cursed items can only be traded among cursed characters.
 203	SMT_CANT_UNBIND_ANYMORE	You cannot liberate further.
-201	SMT_CANT_UNBIND_HAS_CRYSTAL	Items equipped with crystals can't be liberated.
+201	SMT_CANT_UNBIND_HAS_CRYSTAL	Items equipped with augments can't be liberated.
 203	SMT_CANT_UNBIND_INVALID_UNBINDER	You can't liberate with this scroll.
 203	SMT_CANT_UNBIND_LOW_ENCHANT	This equipment must be +{EnchantLevel} to liberate.
 203	SMT_CANT_UNBIND_NOT_BOUND	This item is not bound to you.
@@ -625,7 +625,7 @@
 203	SMT_CHAT_CANT_LORD_CHATING	Only the vanarch of this area can use this channel.
 203	SMT_CHAT_CANT_MAKE_CHANNEL_IS_NAME	The channel name must be between 2 and 8 letters.
 203	SMT_CHAT_CANT_MAKE_CHANNEL_IS_SAME_NAME	That channel name already exists.
-201	SMT_CHAT_CANT_USE_MEGAPHONE_AMOUNT	No megaphone. You can purchase a megaphone in MT Dream Shop.
+201	SMT_CHAT_CANT_USE_MEGAPHONE_AMOUNT	No megaphone. You can purchase a megaphone in Agaia Online Shop.
 203	SMT_CHAT_CANT_USE_MEGAPHONE_COOLTIME	Cannot use megaphone until cooldown finishes.
 201	SMT_CHAT_CHANGE_PASSWORD	The password for {_ChannelName} has changed.
 203	SMT_CHAT_CHANNEL_NUM_IS_FAIL	No channel found.
@@ -650,8 +650,8 @@
 203	SMT_CHAT_NOT_IN_UNIONPARTY	You are not in raid.
 203	SMT_CHAT_PASSWORD_IS_FAIL	The password must consist of 4 numerals (0000-9999).
 203	SMT_CHAT_PENALTY_START	Your chat is restricted for sending too many messages.
-203	SMT_CHAT_QNA_NOTICE	Have fun in Arborea!
-203	SMT_CHAT_QNA_NOTICE_LINK	The MT Dream Team <3s you!
+203	SMT_CHAT_QNA_NOTICE	Have fun on Agaia!
+203	SMT_CHAT_QNA_NOTICE_LINK	The Agaia Online Team <3s you!
 201	SMT_CHAT_VIOLATION	SMT_CHAT_VIOLATION
 203	SMT_CHAT_WHISPER_SELF	Invalid target.
 201	SMT_CHECK_FREE_SERVICE_TIME_LEFT	Your play time ends in {time} min.
@@ -748,16 +748,16 @@
 103	SMT_CRETURE_ATTACK_ONEKILL	Killed by {AttackerName}.
 201	SMT_CRITICAL_HOLY_SUCKS	SMT_CRITICAL_HOLY_SUCKS
 201	SMT_CRITICAL_SUCKS	SMT_CRITICAL_SUCKS
-203	SMT_CRYSTAL_CANT_PRODUCE_FULL_INVEN	Not enough inventory space for crystal fusion.
-203	SMT_CRYSTAL_ENCHANT_CANCEL	Canceled crystal fusion.
-201	SMT_CUSTOMIZING_DETACH_DESTROYED	One or more crystals were destroyed.
-203	SMT_CUSTOMIZING_INVALID_CUSTOMIZING_ITEM	Not an enhancement crystal.
-203	SMT_CUSTOMIZING_NOT_ENOUGH_CUSTOMIZING_SLOT	You don't have enough crystal slots.
+203	SMT_CRYSTAL_CANT_PRODUCE_FULL_INVEN	Not enough inventory space for augment fusion.
+203	SMT_CRYSTAL_ENCHANT_CANCEL	Canceled augment fusion.
+201	SMT_CUSTOMIZING_DETACH_DESTROYED	One or more augments were destroyed.
+203	SMT_CUSTOMIZING_INVALID_CUSTOMIZING_ITEM	Not an enhancement augment.
+203	SMT_CUSTOMIZING_NOT_ENOUGH_CUSTOMIZING_SLOT	You don't have enough augment slots.
 203	SMT_CUSTOMIZING_NOT_EXIST_DETACH_ITEM	Nothing to remove.
-203	SMT_CUSTOMIZING_NOT_THIS_ITEM	You can't attach a crystal to that item.
+203	SMT_CUSTOMIZING_NOT_THIS_ITEM	You can't attach a augment to that item.
 201	SMT_CUSTOMIZING_ONDEAD_DESTROYED	{ItemName} destroyed.
 203	SMT_CUSTOMIZING_PARTS_CANT_REG_ITEM	Cannot remodel an item with the same appearance.
-203	SMT_CUSTOMIZING_PREVIOUS_SAME_SERIES	A crystal of that type is already attached.
+203	SMT_CUSTOMIZING_PREVIOUS_SAME_SERIES	An augment of that type is already attached.
 201	SMT_DAILYEVENT_FRIDAY	Ultra-Hyper-Fire-Turbo Time! Uber buffs from 8 p.m. to 10 p.m. PDT.
 201	SMT_DAILYEVENT_MONDAY	Ultra-Hyper-Fire-Turbo Time! Uber buffs from 8 p.m. to 10 p.m. PDT.
 201	SMT_DAILYEVENT_SATURDAY	Ultra-Hyper-Fire-Turbo Time! Uber buffs from 8 p.m. to 10 p.m. PDT.
@@ -911,7 +911,7 @@
 203	SMT_FREE_SERVICE_CANT_ACTION	This action is not available to that account type.
 201	SMT_FREE_SERVICE_IS_OVER	Please purchase and subscribe to continue your adventures!
 203	SMT_FREE_SERVICE_LIMIT_ACTION	This account type can't access this area.
-201	SMT_FREE_SERVICE_LITTLE_TIME_LEFT	Level {Level} is the maximum level for this trial account. Your play time with this character will end in {minute} minute{@select:{minute}/s//s}. Please try another character or purchase MT Dream at shop.tera-europe.com.
+201	SMT_FREE_SERVICE_LITTLE_TIME_LEFT	Level {Level} is the maximum level for this trial account. Your play time with this character will end in {minute} minute{@select:{minute}/s//s}. Please try another character or purchase Agaia Online at shop.tera-europe.com.
 201	SMT_FRIENDSHIP_GETTING_POINT_MSG	{point} Friendship bonds gained by {type}
 201	SMT_FRIEND_ADD_SUCCESS	Added {UserName} to your friends list.
 203	SMT_FRIEND_ALREADY_EXIST	That player is already on your friends list, or your friend request is pending.
@@ -1194,7 +1194,7 @@
 201	SMT_HIT_LOVE_FIREWORK	{UserName} loves you!
 203	SMT_HOLD_PLAYER_CANT_LEAVE_WORLD	You cannot exit the game while taking damage.
 203	SMT_HOLD_PLAYER_CANT_USE_ITEM	You cannot use an item while taking damage.
-201	SMT_HUNTINGZONE_EVENT_ANNOUNCE	There are active events. For more information visit https://mtdream.net.
+201	SMT_HUNTINGZONE_EVENT_ANNOUNCE	There are active events. For more information visit https://agaiaonline.com.
 201	SMT_INCREASE_SKILL_RANK	{Skill} is now level {Rank}.
 201	SMT_INCREMENT_CHARACTER_SOCKET	Additional character slot added.
 201	SMT_INGAMESTORE_BASKET_ADDED	The selected item has been saved in your cart.
@@ -1208,15 +1208,15 @@
 201	SMT_INGAMESTORE_BUY_MONEY_PRODUCT_POPUP_UNKNOWN_ERROR_MESSAGE	Error. Try again later. [Error code:{ErrorText}]
 201	SMT_INGAMESTORE_BUY_TCAT_PRODUCT	You have registered {Count} {ItemDesc} for {EachPrice@tcat} Astrum Coin each.
 203	SMT_INGAMESTORE_CHECKING_BALANCE_FAILED_MESSAGE	Unable to check balance. Please try again later. [Error code:{ErrorText}]
-203	SMT_INGAMESTORE_CLOSED	We are unable to provide access to MT Dream Shop at the moment.
+203	SMT_INGAMESTORE_CLOSED	We are unable to provide access to Agaia Online Shop at the moment.
 203	SMT_INGAMESTORE_ERROR	Cannot purchase products.
-203	SMT_INGAMESTORE_LOWMONEY	Not enough MT Dream Thalers for that purchase. Please buy additional MT Dream Thalers at the website.
-201	SMT_INGAMESTORE_OPEN_CHARGE_PAGE	Buy MT Dream Thalers
+203	SMT_INGAMESTORE_LOWMONEY	Not enough Agaia Online Thalers for that purchase. Please buy additional Agaia Online Thalers at the website.
+201	SMT_INGAMESTORE_OPEN_CHARGE_PAGE	Buy Agaia Online Thalers
 201	SMT_INGAMESTORE_OPEN_ITEM_CLAIM	Open Item Claim
 203	SMT_INGAMESTORE_TCAT_BUYALERT	Purchased items are placed in the character's <font color = '#FFFFFF'>inventory</font>. <br><font color = '#FF0000'>Items bought using Astrum Coin can't be exchanged for Astrum Coin.</font>
-201	SMT_INGAMESTORE_TERA_SHOP	TERA Shop
+201	SMT_INGAMESTORE_TERA_SHOP	Agaia Shop
 201	SMT_INVALID_CLIMBING_END_POS	You're not in position to climb that.
-203	SMT_INVALID_CUSTOMIZING_ITEM	Not an enhancement crystal.
+203	SMT_INVALID_CUSTOMIZING_ITEM	Not an enhancement augment.
 203	SMT_INVALID_ENCHANT_ITEM	Unable to enchant that.
 203	SMT_INVALID_ENCHANT_MATERIAL	That's not enchanting material.
 203	SMT_INVALID_ENCHANT_SCROLL	You can only use alkahest there.
@@ -1297,7 +1297,7 @@
 204	SMT_JOIN_UNIONPARTY_PARTYPLAYER	{PartyPlayerName} joined the raid.
 201	SMT_KICK_PARTY_FAILED	SMT_KICK_PARTY_FAILED
 201	SMT_KICK_PARTY_SUCCEED	SMT_KICK_PARTY_SUCCEED
-201	SMT_KOREAN_RATING_TEENAGER_PROHIBITED	mtdream.net has the latest news and information. Please play responsibly.
+201	SMT_KOREAN_RATING_TEENAGER_PROHIBITED	agaiaonline.com has the latest news and information. Please play responsibly.
 201	SMT_LEARN_RECIPE	You learned to make {Recipe}.
 204	SMT_LEAVE_PARTY	You left the {party}.
 201	SMT_LEAVE_PARTY_FAILED	SMT_LEAVE_PARTY_FAILED
@@ -1337,7 +1337,7 @@
 201	SMT_LOAN_REGISTER_LOAN_INTEREST_RATE	SMT_LOAN_REGISTER_LOAN_INTEREST_RATE
 201	SMT_LOAN_REGISTER_LOAN_MONEY	SMT_LOAN_REGISTER_LOAN_MONEY
 201	SMT_LOAN_REGISTER_MORTGAGE_FAILED	SMT_LOAN_REGISTER_MORTGAGE_FAILED
-201	SMT_LOBBY_CANNOT_CONNECT_TIME_EXPIRED	You have used up all your limited playtime. Please watch mtdream.net for dates of future test periods.
+201	SMT_LOBBY_CANNOT_CONNECT_TIME_EXPIRED	You have used up all your limited playtime. Please watch agaiaonline.com for dates of future test periods.
 209	SMT_LOOTED_ITEM	You receive {ItemName} ×{ItemAmount}
 211	SMT_LOOTED_MONEY	You receive {Money@money}
 209	SMT_LOOTED_SPECIAL_ITEM	You receive {ItemName} ×{ItemAmount}
@@ -1450,7 +1450,7 @@
 201	SMT_NOT_APPOINT_COMMANDER	You can't appoint more people.
 203	SMT_NOT_COMMANDER	Not an alliance commander.
 203	SMT_NOT_ENOUGH_CONSUME_ITEM	You don't have enough {ItemName}.
-203	SMT_NOT_ENOUGH_CUSTOMIZING_SLOT	All crystal slots are full.
+203	SMT_NOT_ENOUGH_CUSTOMIZING_SLOT	All augment slots are full.
 203	SMT_NOT_ENOUGH_ENCHANT_SCROLL	You need more alkahest.
 201	SMT_NOT_ENOUGH_GUILD_MEMBER	Not enough guild members.
 203	SMT_NOT_ENOUGH_MATERIAL	You don't have enough crafting materials.
@@ -1621,7 +1621,7 @@
 208	SMT_PK_SYSMSG_KILL_OBJECT	You killed {player}.
 208	SMT_PK_SYSMSG_KILL_SUBJECT	{player} killed you.
 208	SMT_PK_SYSMSG_START	PvP has begun.
-201	SMT_PLAYTIME_START	Welcome to MT: The Dream. Join us on discord at http://discord.gg/mtdream for the latest news!
+201	SMT_PLAYTIME_START	Welcome to Agaia Online. Join us on discord at http://discord.gg/agaiaonline for the latest news!
 201	SMT_PLAYTIME_TIMER	You've been playing for {@select:{PlayTime}/no/an/{PlayTime}} hour{@select:{PlayTime}/s//s}.
 201	SMT_PLAY_GUIDE_COMPLETE_EVENT	You completed a mission from {EventName}.
 201	SMT_PLAY_GUIDE_NEW_EVENT	You have a new mission in {EventName}.
@@ -1949,7 +1949,7 @@
 203	SMT_TUTORIAL_ACTION_CANT_PLAYER	You can't perform that action on players in the prologue.
 203	SMT_TUTORIAL_ACTION_CANT_YOU	That action is not allowed during the prologue.
 203	SMT_TUTORIAL_REGION_CANT_YOU	You cannot move to the tutorial region.
-203	SMT_UNCOMBINALE_CRYSTAL	This crystal cannot be fused with a smart dyad niveot structure.
+203	SMT_UNCOMBINALE_CRYSTAL	This augment cannot be fused with a smart dyad niveot structure.
 201	SMT_UNDEFINED	This is a system message.
 201	SMT_UNIONPARTYBOARD_APPLY	You have asked to join {UserName}'s raid.
 203	SMT_UNIONPARTYBOARD_CANT_APPLY_IS_TEAM	You can't join a raid while on a team.
@@ -2113,7 +2113,7 @@
 203	SMT_YOU_CANT_DECOMPOSE_WHEN_OPEN_ENCHANTUI	Cannot dismantle while enchanting equipment.
 203	SMT_YOU_CANT_PRODUCE_NOT_ENOUGH_FATIGUE	Unable to craft due to low production points.
 203	SMT_YOU_CANT_RESET_DUNGEON_NO_NOTHING	No instance to reset.
-203	SMT_YOU_MUST_DETACH_CRYSTAL	Please remove all crystals first.
+203	SMT_YOU_MUST_DETACH_CRYSTAL	Please remove all augments first.
 203	SMT_EP_CANT_USE_ITEM_BY_LEVEL_MAX	You must be a higher level to use that.
 203	SMT_EP_CLOSE_UI_WITHOUT_SAVE	You must save changes made in Enhancement Point menu.
 203	SMT_CAN_MATCH_OVER_MIN_MEMBER_COUNT	Minimum group for this queue is {number} players.
@@ -2168,7 +2168,7 @@
 203	SMT_CANNOT_TRADE_PROMOTION_ITEM	Items from PC Café Log-in Event cannot be traded, sold, or put in guild banks.
 203	SMT_CANNOT_USE_SERVICE	Service is currently unavailable.
 203	SMT_STOP_USE_SERVICE	The service is not available now.
-203	SMT_CANNOT_USE_PREMIUM_SERVICE	No elite status available. Check MT Dream Shop.
+203	SMT_CANNOT_USE_PREMIUM_SERVICE	No elite status available. Check Agaia Online Shop.
 203	SMT_PROMOTION_OFF_BY_ADMIN	Cannot access PC Café Event now.
 203	SMT_CANNOT_OPEN_TASK_DUNGEON_WINDOW	You cannot enter the Ace Dungeon right now.
 203	SMT_OS_CANNOT_SUPPORT_AWESOMIUM	This feature is not supported in Windows 2003 or Windows XP.
@@ -2177,7 +2177,7 @@
 201	SMT_VIPSYSTEM_GET_TOKEN	You received {Amount} reward credits.
 302	SMT_VIPSYSTEM_CANT_ENTER_DUNGEON	The Crucible of Fame is unavailable.
 302	SMT_VIPSHOP_CANT_BUYITEM_SOLDOUT	You've already purchased this item.
-302	SMT_VIPSYSTEM_CANT_OPEN_STORE	The MT Dream Rewards Emporium is temporarily unavailable.
+302	SMT_VIPSYSTEM_CANT_OPEN_STORE	The Agaia Online Rewards Emporium is temporarily unavailable.
 201	SMT_DUNGEON_FORCE_RESTORE_MSG	The quest has been reset to a suitable point.
 203	SMT_CITYWAR_DEAD_MESSAGE	<font color = '#cccccc'>You will be resurrected at the selected location below in <br><font color = '#ff0000'>{ReviveSec} seconds.</font>.
 202	SMT_GQUEST_URGENT_NOTIFY	<font color = '#fcb7ff'>[Rally] {questName}</font> is now available for your guild. <font color = '#fcb7ff'>{npcName}</font> will appear in <font color = '#fcb7ff'>{zoneName} (Channel 1)</font> soon.
@@ -2235,15 +2235,15 @@
 203	SMT_PERIOD_ITEM_CANT_USE_WITHOUT_DBID	This item cannot be added to shortcut tray.
 203	SMT_CANT_USE_ITEM_SKILL_WHILE_PREVIEW	You cannot use item's skill while in Preview mode.
 302	SMT_GMEVENT_INVALID_LEVEL	Your level is too low.
-302	SMT_GMEVENT_ALREADY_START	TERA Super Quiz Bowl has already started.
-302	SMT_GMEVENT_FULL_USER	TERA Super Quiz Bowl is full. Try again later.
-302	SMT_GMEVENT_DONT_USE_SKILL	You cannot use skills in MT Dream Super Quiz Bowl.
+302	SMT_GMEVENT_ALREADY_START	Dream Super Quiz Bowl has already started.
+302	SMT_GMEVENT_FULL_USER	Dream Super Quiz Bowl is full. Try again later.
+302	SMT_GMEVENT_DONT_USE_SKILL	You cannot use skills in Dream Super Quiz Bowl.
 302	SMT_GMEVENT_TOO_MUCH_JOIN	You cannot participate anymore today.
 302	SMT_GMEVENT_LEAVE_EVENT	You left the event.
-302	SMT_GMEVENT_CANNOT_USE_ITEM_IN_STADIUM	Cannot be used during MT Dream Super Quiz Bowl.
+302	SMT_GMEVENT_CANNOT_USE_ITEM_IN_STADIUM	Cannot be used during Dream Super Quiz Bowl.
 302	SMT_GMEVENT_OXQUIX_RECV_SPECIAL_REWARD	You received a special prize. Check your parcel post.
 302	SMT_GMEVENT_CANNOT_ACTION_IN_STADIUM	Cannot be used during the event.
-302	SMT_GMEVENT_INVALID_CONTINENT_FOR_SUMMON	You cannot invite a player in battlegrounds, dungeons, and instances to join MT Dream Super Quiz Bowl.
+302	SMT_GMEVENT_INVALID_CONTINENT_FOR_SUMMON	You cannot invite a player in battlegrounds, dungeons, and instances to join Dream Super Quiz Bowl.
 302	SMT_GMEVENT_RESERVATION_REPE_NONE	[Consolation Game] The consolation game will start after this question.
 302	SMT_GMEVENT_RESERVATION_FAILED_REPE_NONE	[No Consolation Game] There will be no consolation game.
 302	SMT_GMEVENT_RESERVATION_FAILED_REPE_LAST_LEVEL	[No Consolation Game] This is the last question.
@@ -2301,7 +2301,7 @@
 201	SMT_REPAIR_SUCCESS	You've successfully repaired {ItemName}.
 201	SMT_REPAIR_FAIL	You failed to repair {ItemName}.
 201	SMT_REPAIR_BALANCE_MEDIUM	Your advantage increased. Your chance of succeeding on your next repair attempt will be higher.
-203	SMT_YOU_MUST_DETACH_CRYSTAL_AND_ARTIFACT	Please remove all crystals and niveots first.
+203	SMT_YOU_MUST_DETACH_CRYSTAL_AND_ARTIFACT	Please remove all augments and niveots first.
 203	SMT_CANT_REGIST_ITEM	You cannot select this item.
 203	SMT_CANT_REGIST_IN_CURRENT	You already learned.
 203	SMT_CANT_REGIST_EQUIP	You must unequip the item before enchanting.
@@ -2453,9 +2453,9 @@
 302	SMT_TBA_CHATMSG_PRE_START	Entering the battleground in {sec} sec(s).
 201	SMT_TBA_GACHA_RESULT	Opened {BoxCount} {GachaBoxName} and obtained {ResultCount} {GachaResultItemName}.
 201	SMT_TBA_RUNE_SAVE_CONFIRM	Changes to the Rune Page [{RunePageName}] have been saved.
-201	SMT_TBA_PLAYTIME_START	Welcome to the world of MT Dream BATTLE ARENA.
+201	SMT_TBA_PLAYTIME_START	Welcome to the world of Agaia Online BATTLE ARENA.
 203	SMT_TBA_CHAT_QNA_NOTICE_LINK	<font color = '#FFFF00'>Click "Go"</font>
 203	SMT_TBA_CHAT_QNA_NOTICE	Purchasing gold or items from third-party sources supports fraud and account theft, and may result in an account ban for all parties involved in the transaction.
-201	SMT_THROW_LOVE_FIREWORK	You've hit {UserName} with a snowball!
-201	SMT_HIT_SMILE_FIREWORK	{UserName} hit you with a water balloon.
-201	SMT_THROW_SMILE_FIREWORK	You've hit {UserName} with a water balloon!
+201	SMT_THROW_SMILE_FIREWORK	You've happily hit {UserName}!
+201	SMT_HIT_SMILE_FIREWORK	{UserName} is happy to see you.
+201	SMT_THROW_LOVE_FIREWORK	You love {UserName}!

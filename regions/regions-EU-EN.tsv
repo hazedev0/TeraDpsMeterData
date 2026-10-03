@@ -16,10 +16,12 @@
 116	Corsairs' Stronghold
 117	Kumasylum
 118	Kumas Royale
+120	Champion's Arena
 152	Civil Unrest: Velika
 154	Civil Unrest: Island of Dawn
 155	Civil Unrest: Celestial Hills
 156	Gold Coin Tournament
+157	Civil Unrest: Khanovar Front
 158	Kaia's Endless Fight
 159	Civil Unrest: Colossal Ruins
 160	Civil Unrest: Spring Valley
@@ -112,6 +114,8 @@
 2505	Blitz Barrage
 2506	Echoes of Argonea
 2530	Hero Training Ground
+2600	Harrowhold [Progression]
+2800	Tower of Silent
 3001	Oblivion Woods
 3002	Berzerad Cemetery
 3003	Blood Run
@@ -134,28 +138,35 @@
 3027	Forbidden Arena
 3028	[Training] Grotto of Lost Souls (Hard)
 3029	[Training] Antaroth's Abyss (Hard)
-3030	Dragon's Nest
+3030	Commander's Residence
 3031	Outer Core District
 3032	[Training] Akalath Quarantine
 3033	[Training] Gossamer Vault (Hard)
 3034	Rampaging RK-9 Kennel
-3036	Sky Cruiser (Hard)
+3036	Sky Cruiser Endeavor Deck (Extreme)
 3037	[Training] Bahaar's Sanctum
 3038	Hydrangea
 3041	[Ace] RK-9 Kennel
 3042	[Ace] Thaumetal Refinery
 3044	[Ace] Ruinous Manor
+3045	Azart Hatchery
+3051	Veiled Island of Dawn
+3052	Shrine of the Demon God
 3101	Gossamer Vault
 3102	Draakon Arena
 3103	Forbidden Arena
 3104	Lumikan's Dream
+3105	Fusion Laboratory
 3106	Killing Grounds
 3107	Corrupted RK-9 Kennel
+3111	The Veil (Darkan)
+3113	Scorching Akeron's Inferno (10-Man)
 3126	Corrupted Skynest (Hard)
 3201	Gossamer Vault (Hard)
 3202	Draakon Arena (Hard)
 3203	Forbidden Arena
 3204	Lumikan's Dream (Hard)
+3205	Cursed Fusion Laboratory
 3206	Crimson Killing Grounds
 4000	Hail's Testing Zone
 4001	Fyrmount
@@ -240,7 +251,9 @@
 9012	Vexatus Swamp
 9013	Saravash's Ascent Entrance
 9034	Dreadspire
-9044	Frozen Bahaar's Sanctum
+9044	Bahaar's Sanctum
+9045	Frozen Bahaar's Sanctum
+9048	Sanctum of the Fire God
 9054	Bathysmal Rise Entrance
 9056	Timescape (Hard)
 9057	Akeron's Inferno (Hard)
@@ -279,17 +292,19 @@
 9810	Lakan's Prison Entrance
 9830	Celestial Arena
 9833	Wyrmgorge
+9850	Withering Dreadspire
 9860	Kalivan's Challenge
 9920	Antaroth's Abyss (Hard)
 9935	RK-9 Kennel (Hard)
 9939	Red Refuge (Hard)
-9950	Harrowhold
+9950	Harrowhold [Sealed Fortress]
 9969	Lilith's Keep (Hard)
 9970	Ruinous Manor (Hard)
 9980	Velik's Hold (Hard)
-9981	Sanctuary's Ruins (Hard)
+9981	Velik's Sanctuary (Hard)
 9982	Grotto of Lost Souls (Hard)
 9983	Dark Reach Citadel (Hard)
+9985	Sanctuary's Ruins (Hard)
 9994	Thaumetal Refinery (Hard)
 9999	TERA Instanced Space
 10001	Serpentis Isle
@@ -1148,6 +1163,10 @@
 118001	Gridiron
 118002	Shore Hold
 119001	Coliseum
+120001	Champion's Arena
+120002	A Team Base
+120003	B Team Base
+120004	Training Sanctum
 152001	Anansha's Nest
 152002	Frygaras' Nest
 152003	Sabranak's Nest
@@ -1283,6 +1302,7 @@
 310302	Forbidden Arena Passage
 320301	Forbidden Arena Waiting Room
 320302	Forbidden Arena Passage
+320501	Fusion Laboratory Entrance
 469001	Arx Umbra: About 50 years ago
 505111	Elenea
 505112	Firespine Outpost
@@ -1354,8 +1374,8 @@
 906913	Anea's Palace Entrance
 907001	Playpen Entrance
 907002	Playpen
-950001	Harrowhold
-950002	Harrowhold Entrance
+950001	Harrowhold [Sealed Fortress]
+950002	Harrowhold [Sealed Fortress] Entrance
 973501	RK-9 Kennel
 973502	RK-9 Kennel Entrance
 975601	Timescape
@@ -1512,6 +1532,17 @@
 2500002	Center
 2500003	Young World Tree
 2500004	Tower of Shara
+2600001	Harrowhold [Progression]
+2600002	Harrowhold [Progression] - Courtyard
+2600003	Harrowhold [Progression] - Cliffs
+2800001	Tower of Silent
+2800002	Tower of Silent
+2800003	Tower of Silent
+2800004	Tower of Silent
+2800005	Tower of Silent
+2800006	Tower of Silent
+2800007	Tower of Silent
+2800008	Tower of Silent
 3001001	Bastion of Lok (Solo)
 3002001	Sinestral Manor (Solo)
 3003001	Cultists' Refuge (Solo)
@@ -1575,11 +1606,11 @@
 3034006	Restricted Area: E
 3034007	Observation Room
 3035001	Velik's Sanctum
-3036001	Sky Cruiser (Hard)
-3036002	Sky Cruiser Platform (Hard)
-3036003	Sky Cruiser Control Room (Hard)
-3036004	Sky Cruiser Engine Room (Hard)
-3036005	Sky Cruiser Deck (Hard)
+3036001	Sky Cruiser Endeavor Deck (Extreme)
+3036002	Sky Cruiser Platform (Extreme)
+3036003	Sky Cruiser Control Room (Extreme)
+3036004	Sky Cruiser Engine Room (Extreme)
+3036005	Sky Cruiser Endeavor Deck (Extreme)
 3037000	[Training] Bahaar's Sanctum Entrance
 3037001	[Training] Bahaar's Sanctum
 3037002	[Training] Bahaar's Sanctum - Balder's Seal
@@ -1598,6 +1629,19 @@
 3044002	Destroyed Keep
 3044003	Lady's Chamber
 3044004	Balderon
+3045001	Azart Hatchery Entrance
+3051001	Veiled Island of Dawn
+3051002	Veiled North Dock
+3051003	Timeless Woods
+3051004	Northern Checkpoint
+3051005	Ruined Temple
+3051006	Central Checkpoint
+3051007	Airship Approach
+3051008	Mysterious Ruins
+3051009	Shrine of Yurian
+3051010	Arun Heights
+3051011	Shrine of Manahan
+3051012	Tainted Gorge
 3060001	Hall of the Argon Queen
 3060002	Hall of the Argon Queen
 3101001	Extraction Chamber
@@ -1616,6 +1660,13 @@
 3107005	Restricted Area: D
 3107006	Restricted Area: E
 3107007	Observation Room
+3112001	Raging Manaya's Core
+3112002	Raging Manaya's Core
+3113001	Scorching Akeron's Inferno (10-Man)
+3113002	Scorching Akeron's Inferno (10-Man) Entrance
+3113003	The Hand of Scorching Akeron
+3113004	Scorching Akeron's Reach
+3113005	Theater of Terror
 3201000	Gossamer Vault Entrance
 3201001	Extraction Chamber
 3201002	Regent's Vault
@@ -1623,6 +1674,7 @@
 3202001	Draakon Arena (Hard)
 3202002	Draakon Arena Entrance
 3203001	Forbidden Arena
+3205000	Fusion Laboratory Entrance
 3206001	Crimson Killing Grounds
 3206002	Crimson Killing Grounds
 3206004	Killing Grounds Entrance
@@ -1842,18 +1894,24 @@
 9043101	Solonesome Cage(Hard)
 9043111	Unceremonious Landing (Hard)
 9043121	Vacant Stair (Hard)
-9044000	Frozen Bahaar's Sanctum Entrance
-9044001	Frozen Bahaar's Sanctum
-9044002	Frozen Bahaar's Sanctum - Balder's Seal
-9044003	Frozen Bahaar's Sanctum - Ice Lord's Chamber
-9044004	Frozen Bahaar's Sanctum - Ice Lord's Chamber
-9045001	Bluefist Mountain
-9045002	Lilipart Village
+9044000	Bahaar's Sanctum Entrance
+9044001	Bahaar's Sanctum
+9044002	Bahaar's Sanctum - Balder's Seal
+9044003	Bahaar's Sanctum - Fire Lord's Chamber
+9044004	Bahaar's Sanctum - Fire Lord's Chamber
+9045000	Frozen Bahaar's Sanctum Entrance
+9045001	Frozen Bahaar's Sanctum
+9045002	Frozen Bahaar's Sanctum - Balder's Seal
+9045003	Frozen Bahaar's Sanctum - Ice Lord's Chamber
+9045004	Frozen Bahaar's Sanctum - Ice Lord's Chamber
 9046001	Accursed Oasis
 9046002	Giant Growth Testing Ground
 9047001	Harvest Festival Hall
-9048001	Dice Instance Dungeon (Temp Title)
-9048002	Dice Instance Dungeon (Temp Title)
+9048000	Sanctum of the Fire God Entrance
+9048001	Sanctum of the Fire God
+9048002	Sanctum of the Fire God - Seal of Flame
+9048003	Sanctum of the Fire God - Chamber of the Flame Lord
+9048004	Sanctum of the Fire God - Chamber of the Flame Lord
 9050000	Rift's Edge Entrance
 9050001	Guwangi Village
 9050002	Guwangi Village Landing
@@ -2242,6 +2300,12 @@
 9833005	Firespine Outpost
 9833006	Zaeltarazad Shrine
 9833007	Boneshade Camp
+9850001	Withering Dreadspire
+9850002	Withering Dreadspire: 2nd Trial
+9850003	Withering Dreadspire: 3rd Trial
+9850004	Withering Dreadspire: 4th Trial
+9850005	Withering Dreadspire Entrance
+9850011	Withering Dreadspire: 1st Trial
 9860001	Sentry Ship
 9860002	Dreadnaught Deck
 9860003	Boarding Ramp
@@ -2314,9 +2378,9 @@
 9939002	Red Refuge (Hard) - Armory
 9939003	Refuge Outskirts
 9939004	Infiltration Route
-9950001	Harrowhold
-9950002	Harrowhold - Courtyard
-9950003	Harrowhold - Cliffs
+9950001	Harrowhold [Sealed Fortress]
+9950002	Harrowhold [Sealed Fortress] - Courtyard
+9950003	Harrowhold [Sealed Fortress] - Cliffs
 9970001	Destroyed Garden
 9970002	Destroyed Keep
 9970003	Lady's Chamber
@@ -2328,13 +2392,13 @@
 9979002	Saravash's Catchment
 9979003	Feldrenen Forest
 9979004	Threat Camp
-9981001	Sanctuary's Ruins (Hard) - Garden
-9981002	Sanctuary's Ruins (Hard) - Meeting Room
-9981003	Sanctuary's Ruins (Hard) - Velik's Shrine
-9981004	Sanctuary's Ruins (Hard) - Main Square
-9981005	Sanctuary's Ruins (Hard) - Bypass
+9981001	Velik's Sanctuary (Hard) - Garden
+9981002	Velik's Sanctuary (Hard) - Meeting Room
+9981003	Velik's Sanctuary (Hard) - Velik's Shrine
+9981004	Velik's Sanctuary (Hard) - Main Square
+9981005	Velik's Sanctuary (Hard) - Bypass
 9981006	Velik's Hold
-9981007	Sanctuary's Ruins (Hard) - Entrance
+9981007	Velik's Sanctuary (Hard) - Entrance
 9982000	Grotto of Lost Souls Entrance
 9982001	Nedra's Haven
 9982002	Killing Ground
@@ -2344,6 +2408,13 @@
 9983001	Grand Plaza
 9983002	Library
 9983003	Ramparts
+9985001	Sanctuary's Ruins (Hard) - Garden
+9985002	Sanctuary's Ruins (Hard) - Meeting Room
+9985003	Sanctuary's Ruins (Hard) - Velik's Shrine
+9985004	Sanctuary's Ruins (Hard) - Main Square
+9985005	Sanctuary's Ruins (Hard) - Bypass
+9985006	Velik's Hold
+9985007	Sanctuary's Ruins (Hard) - Entrance
 9990001	Attack!
 9990002	Defend!
 9990003	Danger!
@@ -2373,6 +2444,9 @@
 30371000	[Training] Bahaar's Sanctum
 31030001	Forbidden Arena [Undying Warlord]
 32030001	Forbidden Arena [Nightmare Undying Warlord]
+32050011	Fusion Laboratory
+32050012	Cursed Fusion Laboratory
+32050021	Verrak Fortress
 32060001	Crimson Killing Grounds
 32060002	Killing Grounds Entrance
 70231000	Vale of the Reaper - Perdidrax's Nest

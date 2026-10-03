@@ -68,10 +68,13 @@
 118	9000		4150	Backpedal	icon_skills.kw_backjump_tex
 118	9000		4160	Somersault	icon_skills.kumas_frontroll_tex
 121	9005		1301	Fire Salvo	icon_skills.vehicleex_att01_tex
+121	9005		1302	Fire Salvo	icon_skills.vehicleex_att01_tex
 121	9005		1501	Dismount	icon_skills.vehicleex_getoff_tex
 122	9005		1301	Fire Salvo	icon_skills.vehicleex_att01_tex
+122	9005		1302	Fire Salvo	icon_skills.vehicleex_att01_tex
 122	9005		1501	Dismount	icon_skills.vehicleex_getoff_tex
 123	9005		1301	Fire Salvo	icon_skills.vehicleex_att01_tex
+123	9005		1302	Fire Salvo	icon_skills.vehicleex_att01_tex
 123	9005		1501	Dismount	icon_skills.vehicleex_getoff_tex
 159	7050	Leader's tank	1101	Fire Salvo	icon_skills.vehicleex_att01_tex
 159	7050	Leader's tank	1102	Fire Salvo	icon_skills.vehicleex_att01_tex

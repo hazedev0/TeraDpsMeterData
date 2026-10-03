@@ -58,14 +58,6 @@
 58	58001	Money Talks Louder
 59	59001	Money Talks Louder Than Ever
 60	60001	Money Don't Need to Say a Thing
-61	61001	Lead Warrior
-62	62001	Lead Lancer
-63	63001	Lead Slayer
-64	64001	Lead Berserker
-65	65001	Lead Sorcerer
-66	66001	Lead Archer
-67	67001	Lead Priest
-68	68001	Lead Mystic
 69	69001	Lucky Streak
 70	70001	Hot Streak
 71	71001	Wasted a Warrior
@@ -94,8 +86,6 @@
 94	94001	Battle Worn
 95	95001	Battle Weary
 96	96001	Superior Display
-97	97001	Island Explorer
-98	98001	Arun Man
 99	99001	Meandered to Leander
 100	100001	Apprentice Weaponsmith
 101	101001	Journeyman Weaponsmith
@@ -202,7 +192,7 @@
 202	202001	Covert Operations
 203	203001	Fulcrum Fail
 204	204001	Pick Me!
-205	205001	Dedicated MT Dream Player!
+205	205001	Dedicated Agaia Online Player!
 206	206001	100 Bosses
 207	207001	1,000 Bosses
 208	208001	5,000 Bosses
@@ -293,14 +283,6 @@
 293	293001	Val Palrada Marathon
 294	294001	Lorcada Marathon
 295	295001	Sylvanoth Marathon
-296	296001	Warrior Secundus
-297	297001	Lancer Secundus
-298	298001	Slayer Secundus
-299	299001	Berserker Secundus
-300	300001	Sorcerer Secundus
-301	301001	Archer Secundus
-302	302001	Priest Secundus
-303	303001	Mystic Secundus
 304	304001	Crazy Little Thing Called Lore
 305	305001	Let Your Lore Flow
 306	306001	How Deep Is Your Lore?
@@ -409,14 +391,6 @@
 418	418001	Instance Gratification
 419	419001	I Learned a Thing or Two
 420	420001	To the Max!
-421	421001	Warrior Prime
-422	422001	Lancer Prime
-423	423001	Slayer Prime
-424	424001	Berserker Prime
-425	425001	Sorcerer Prime
-426	426001	Archer Prime
-427	427001	Priest Prime
-428	428001	Mystic Prime
 429	429001	Tower Inferno
 430	430001	Rat-a-tat-tat-tat!
 431	431001	Checkmate
@@ -580,36 +554,21 @@
 610	610001	Iron Order Adjunct Commander
 612	612001	Nico Nico 2015 Participant
 613	613001	Nico Nico 2015 Participant
-701	701001	Lead Reaper
-702	702001	Reaper Secundus
-703	703001	Reaper Prime
 706	706001	Routed a Reaper
 708	708001	Pull!
 709	709001	From Hell's Heart!
 711	711001	Purge the Infection
 712	712001	Out of the Darkness, Into the Light
 713	713001	Trumped Tower
-714	714001	Lead Brawler
-715	715001	Brawler Secundus
-716	716001	Brawler Prime
 718	718001	All the Rage
 719	719001	Knocking on Heaven's Door
 720	720001	Beat Down a Brawler
-721	721001	Cutting-Edge Brawler
-722	722001	Quick Ninja
-723	723001	Genin
-724	724001	Chuunin
 726	726001	Dead Meat
 727	727001	All Downhill from Here
 728	728001	Neutralized a Ninja
-729	729001	Jounin
-730	730001	Lead Valkyrie
-731	731001	Valkyrie Secundus
-732	732001	Valkyrie Prime
 734	734001	Up and Down
 735	735001	Twilight of the Gods
 736	736001	Glorious Victory
-737	737001	A Cut Above
 777	777001	Working Out in the Channelworks
 778	778001	Larva 'n Let Die
 779	779001	Larvae Hate
@@ -966,15 +925,6 @@
 1654	1654001	Hungry Hungry Demokrons
 1655	1655001	Untouchable
 1656	1656001	Ending the Nightmare
-1657	1657001	A Cut Above
-1658	1658001	A Cut Above
-1659	1659001	A Cut Above
-1660	1660001	A Cut Above
-1661	1661001	A Cut Above
-1662	1662001	A Cut Above
-1663	1663001	A Cut Above
-1664	1664001	A Cut Above
-1665	1665001	A Cut Above
 1666	1666001	Bird of Prey
 1667	1667001	All You Can Beat
 1668	1668001	Flower Power
@@ -1021,14 +971,9 @@
 1710	1710001	Faster than a Speeding Arrow
 1711	1711001	Yo, Elleon, I did it!
 1712	1712001	Shatter the Phantom of the Queen
-1713	1713001	Lead Gunner
-1714	1714001	Gunner Secundus
-1715	1715001	Gunner Prime
-1716	1716001	Prone to Violence
 1717	1717001	Ready, Aim, Fire
 1718	1718001	BOOM! HEADSHOT!
 1719	1719001	Hammered a Gunner
-1720	1720001	Cutting-Edge Gunner
 1721	1721001	Ooh, You Make Me Live
 1722	1722001	Whatever This World Can Give to Me
 1723	1723001	Been With You Such a Long Time
@@ -1370,22 +1315,8 @@
 2095	2095001	Catch Your Breath
 2096	2096001	Niche Market
 2097	2097001	Rise the Fallen
-2098	2098001	The Legend Begins
 2099	2099001	I Wanna Be the Very Best!
 2100	2100001	Catching Them Is the Real Test
-2101	2101001	Transcendent Brawler
-2102	2102001	Transcendent Ninja
-2103	2103001	Transcendent Valkyrie
-2104	2104001	Transcendent Warrior
-2105	2105001	Transcendent Lancer
-2106	2106001	Transcendent Slayer
-2107	2107001	Transcendent Berserker
-2108	2108001	Transcendent Sorcerer
-2109	2109001	Transcendent Archer
-2110	2110001	Transcendent Priest
-2111	2111001	Transcendent Mystic
-2112	2112001	Transcendent Reaper
-2113	2113001	Transcendent Gunner
 2114	2114001	Bug Hunt
 2115	2115001	Bug Control
 2116	2116001	Bugbuster
@@ -1420,7 +1351,6 @@
 2145	2145001	Exodor Hero
 2146	2146001	Stay Awhile and Listen
 2147	2147001	We Meet Again
-2148	2148001	Above Immortality
 2149	2149001	Are We Done?
 2150	2150001	Playtime
 2151	2151001	Too Slow...Too Slow...
@@ -1454,7 +1384,6 @@
 2179	2179001	Call Me Sensei
 2180	2180001	I Saw a Phoenix
 2181	2181001	Who's Next?
-2182	2182001	Warlord Slayer
 2183	2183001	What Happened Next?
 2184	2184001	Worthy Opponent.
 2185	2185001	Hold on For a Second...
@@ -1702,8 +1631,6 @@
 98101	98101001	Sharing a Cell
 98102	98102001	Prison Riot!
 98103	98103001	Jailhouse Rock
-99101	99101001	First Place on the Battleground Leaderboard - Champions' Skyring
-99102	99102001	Place on the Battleground Leaderboard - Champions' Skyring
 99103	99103001	First Place on the Battleground Leaderboard - Fraywind Canyon
 99104	99104001	Place on the Battleground Leaderboard - Fraywind Canyon
 99105	99105001	First Place on the Battleground Leaderboard - Corsairs' Stronghold
@@ -1712,10 +1639,14 @@
 99108	99108001	Place on the Battleground Leaderboard—Shore Hold
 99109	99109001	First Place on the Battleground Leaderboard - Gridiron
 99110	99110001	Place on the Battleground Leaderboard - Gridiron
-99119	99119001	PvE Leaderboard Rewards Frozen Bahaar's Sanctum 1st Place (BTS)
-99120	99120001	PvE Leaderboard Rewards Frozen Bahaar's Sanctum 2nd, 3rd Place (BTS)
+99111	99111001	PvE Leaderboard Rewards Antaroth's Abyss (Hard) 1st Place (If shown, BTS)
+99112	99112001	PvE Leaderboard Rewards Antaroth's Abyss (Hard) 2nd, 3rd Place(BTS)
+99119	99119001	PvE Leaderboard Rewards Bahaar's Sanctum 1st Place (BTS)
+99120	99120001	PvE Leaderboard Rewards Bahaar's Sanctum 2nd, 3rd Place (BTS)
 99121	99121001	PvE Leaderboard Rewards Gossamer Vault (Hard) 1st Place (BTS)
 99122	99122001	PvE Leaderboard Rewards Gossamer Vault (Hard) 2nd, 3rd Place (BTS)
+99125	99125001	PvE Leaderboard Rewards Forbidden Arena [Nightmare Undying Warlord] Grand Champion 1st Place (BTS)
+99126	99126001	PvE Leaderboard Rewards Forbidden Arena [Nightmare Undying Warlord] 2nd, 3rd Place (BTS)
 99127	99127001	Anti-plant
 99128	99128001	Executing the Executioner
 99129	99129001	Getting Over Draakon
@@ -1737,18 +1668,6 @@
 520033	520033001	Junior Detective
 520034	520034001	Senior Detective
 520035	520035001	Master Detective
-520036	520036001	Master Warrior
-520037	520037001	Master Slayer
-520038	520038001	Master Berserker
-520039	520039001	Master Archer
-520040	520040001	Master Elementalist
-520041	520041001	Master Priest
-520042	520042001	Master Lancer
-520043	520043001	Master Sorcerer
-520044	520044001	Master Soulless
-520045	520045001	Master Assassin
-520046	520046001	Master Engineer
-520047	520047001	Master Fighter
 520048	520048001	Beat the Rush
 520049	520049001	Survival of the Fittest
 520050	520050001	Resistance is Futile!
@@ -1816,15 +1735,21 @@
 530010	530010001	collection_title2
 530011	530011001	collection_title3
 530012	530012001	Savior of Halloween
-540000	540000001	Pride of Menma
+540000	540000001	Beat the Rush
 540001	540001001	First Place on the Battleground Leaderboard - The Colosseum
 540002	540002001	Place on the Battleground Leaderboard - The Colosseum
 540004	540004001	Party Animal
 540005	540005001	Sunbather
-540011	540001101	Winner of Menma's Art Contest
-540012	540001201	Runners-up of Menma's Art Contest
-540013	540001251	Runners-up of Menma's Art Contest
+540008	540007001	PvE Leaderboard Rewards Draakon Arena (Hard) 1st Place
+540009	540008001	PvE Leaderboard Rewards Draakon Arena (Hard) 2nd, 3rd Place
+540011	540001101	Winner of Agaia Online's Art Contest
+540012	540001201	Runners-up of Agaia Online's Art Contest
+540013	540001251	Runners-up of Agaia Online's Art Contest
 540014	540014001	Ice to See You
+540019	540019001	PvE Leaderboard Rewards The Plexus (Hard) 1st Place
+540020	540020001	PvE Leaderboard Rewards The Plexus (Hard) 2nd, 3rd Place
+540023	540023001	PvE Leaderboard Rewards Sanctuary's Ruins 1st Place
+540024	540024001	PvE Leaderboard Rewards Sanctuary's Ruins 2nd, 3rd Place
 540025	540030001	Pulling Back the Veil
 540026	540030005	Endless Nightmare
 540027	540030009	Get It Off me!
@@ -1857,10 +1782,10 @@
 540054	540054001	Armory Apprentice
 540055	540055001	Armory Artisan
 540056	540056001	Armory Master
-549998	549998001	Menma's Platform Manager
-549999	549999001	Menma's Operations Manager
-550002	550002001	Menma's Game Manager
-550003	550003001	Menma's Community Manager
+549998	549998001	Agaia Online's Platform Manager
+549999	549999001	Agaia Online's Operations Manager
+550002	550002001	Agaia Online's Game Manager
+550003	550003001	Agaia Online's Community Manager
 550005	55556608	Server First: Bane of the Battlefield
 550007	550007001	Shoreline Invader
 550008	550008001	Tide Turner
@@ -1877,7 +1802,7 @@
 550019	550019001	Eliminator of Bloodlust
 550020	550020001	You Deserve Some Rest
 550021	550021001	Me, Myself, D
-550022	550022001	Winner of Menma's Screenshot Contest
+550022	550022001	Winner of Agaia Online's Screenshot Contest
 550023	550023001	Black Pearl
 550024	550024001	Mercenary
 550025	550025001	Three's A Crowd
@@ -1940,13 +1865,15 @@
 550083	550083001	Pure Skill
 550084	550084001	Wake Up at the Next Station
 550085	550085001	Dream Within a Dream
+550086	550086001	PvE Leaderboard Rewards Lumikan's Dream (Hard) 1st Place
+550087	550087001	PvE Leaderboard Rewards Lumikan's Dream (Hard) 2nd, 3rd Place
 550088	550088001	Pumpkin Smasher
 550089	550089001	The Candy Is Mine!
 550090	550090001	Spooky... Scary...
 550091	550091001	You've Done It.. But At What Cost?
 550092	550092001	Hollow To The Bone
 550093	550093001	Defender of Arborea
-550094	550009401	Winner of Menma's Summer Art Contest
+550094	550009401	Winner of Agaia Online's Summer Art Contest
 550095	550009501	Winner of Fraywind Canyon Competition
 550096	550009601	Runners-up of Fraywind Canyon Competition
 550097	550097001	Snowstorm on the Horizon
@@ -1958,6 +1885,8 @@
 550103	550103001	This Axe Can't Even Chop Wood!
 550104	550104001	Endless Power is Overrated
 550105	550105001	Down with the Tyrant!
+550106	550106001	PvE Leaderboard Rewards Crimson Killing Grounds 1st Place
+550107	550107001	PvE Leaderboard Rewards Crimson Killing Grounds 2nd, 3rd Place
 550110	550110001	Death's Legionnaire
 550111	550111001	Death's Legionnaire
 550112	550112001	Death's Legionnaire
@@ -2043,7 +1972,14 @@
 550288	550288001	Error 404: RK-9 Not Found
 550289	550289001	The Final Debug
 550290	550290001	Corruption Contained
-550291	550291001	Server First—Pulling The Strings
+550292	550292001	Your Gods Can't Save You Now
+550293	550293001	Power Long Forgotten
+550294	550294001	I Have My Eyes On You
+550297	550297001	Winter is Coming
+550298	550298001	Wonder of Winter
+550299	550299001	Wonder of Winter
+550302	550302001	Burnt Out
+550303	550303001	Thrall Master
 555000	55500001	Avenged the Nagas
 555001	55500011	Advisor to the Queen
 555002	55500020	Aren't you tired yet?
@@ -2058,8 +1994,6 @@
 555011	555011001	Ten-tackle Me Instead!
 555012	555012001	I Found a Friend!
 555559	55559001	Are We Alone Here?
-555561	55560101	Visit Hydrangea
-555562	55560201	Visit Seren's Garden
 555563	55556301	One, Two, Three, Repeat..
 555564	55556401	Fire Is My Friend
 555565	55556501	Lost In the Abyss
@@ -2068,7 +2002,115 @@
 555568	55556801	Trusted Friend
 555569	55556901	Valiant Protector
 555570	55557001	Hero of the Initiative
-555600	55560001	A World Beyond Ours
+556400	556400001	Master of Wordcraft
+556401	556401001	Seeker of Wisdom
+556402	556402001	Naga Slayer
+556403	556403001	Wrath and Pride
+556404	556404001	Elemental Conqueror
+556405	556405001	Demon Exterminator
+556406	556406001	Echoes of the Ancients
+556407	556407001	Obelisk Investigator
+556408	556408001	Purr-fectly Hidden
+556409	556409001	Mystery of the Monument
+556410	556410001	BOOM!!
+556411	556411001	Lair and Back Again
+556412	556412001	Explorer's Footsteps
+556413	556413001	Keeper of the Dawn
+556414	556414001	Unveiled Secrets
+556415	556415001	Friend to All
+556416	556416001	Into the Wilds
+556418	556418001	Echoes of the Past
+556419	556419001	Bandage Aficionado
+556420	556420001	Simply Charming
+556422	556422001	Break the Veil
+556423	556423001	Keeper of the Flames
+556424	556424001	Conqueror of Shadows
+556425	556425001	Beyond the Barrier
+556426	556426001	Eternal Flamebearer
+556435	556435001	Slayer of Shadows
+556436	556436001	Echoes of Victory
+556437	556437401	Winner of Agaia Online's Winter Art Contest
+556438	556438001	Heartbreaker
+556439	556439001	Perfect Catch
+556440	556440001	Bride
+556441	556441001	Groom
+556442	556442001	Dream of the Forsaken
+556447	556447001	Heart of the Inferno
+556448	556448001	Ashes to Oceans
+556449	556449001	Steam Chaser
+556450	556450001	Pride of the Pride
+556451	556451001	Spirit of the Lionheart
+556452	556452001	Lightning Reflexes
+556453	556453001	Inferno's Final Hour
+556454	556454001	Cruising the Inferno
+556455	556455001	Ashen Wings
+556456	556456001	Shadowless Victory
+556457	556457001	Full Throttle
+556458	556458001	Master of the Endeavor
+556459	556459001	Ignition Point
+556460	556460001	Heart Untouched
+556461	556461001	PvE Leaderboard Rewards Sky Cruiser Endeavor Deck (Extreme) 1st Place
+556462	556462001	PvE Leaderboard Rewards Sky Cruiser Endeavor Deck (Extreme) 2nd, 3rd Place
+556463	556463001	Till the Dawn is Deserted
+556464	556464001	Back to Oblivion Woods With You!
+556465	556465001	Parched Pests
+556466	556466001	Raid Wipe
+556467	556467001	Blood Runs Deep
+556468	556468001	Frozen and Battered
+556469	556469001	Timeless Woods Takeover
+556470	556470001	Raid Leader Down
+556471	556471001	Eradicated!
+556472	556472001	This Horde is Mine to Control
+556473	556473001	Rare Plague Monster
+556474	556474001	Rare Miasma Carrier
+556475	556475001	Rare Giant Rockcrawler
+556476	556476001	Monster Hunting Master
+556477	556477001	Boss Hunter
+556478	556478001	Rare Monster Seeker
+556479	556479001	Island of Dawn Completionist
+556480	556480001	Rhutan's Most Trusted Hunter
+556481	556481001	First Place on the Battleground Leaderboard - Champion's Arena
+556482	556482001	Place on the Battleground Leaderboard - Champion's Arena
+556483	556483001	Written in the Stars
+556484	556484001	Written in the Stars
+556485	556485001	Crystalline
+556486	556486001	Crystalline
+556487	556487001	Monarch of Dawn
+556488	556488001	Monarch of Dawn
+556489	556489001	PvE Leaderboard Rewards Cursed Fusion Laboratory 1st Place
+556490	556490001	PvE Leaderboard Rewards Cursed Fusion Laboratory 2nd, 3rd Place
+556491	556491001	Electrifyingly Red
+556492	556492001	Electrifyingly Blue
+556493	556493001	Does It Come in Other Colors?
+556494	556494001	That's me.
+556495	556495001	Get lost!
+556496	556496001	That was only self-defense.
+556497	556497001	Rogash! Stop!
+556498	556498001	Just go back to Lumikan.
+556499	556499001	PvE Leaderboard Rewards Sanctum of the Fire God 1st Place
+556500	556500001	PvE Leaderboard Rewards Sanctum of the Fire God 2nd, 3rd Place
+556501	556501001	Hauntingly Cute
+556502	556502001	Hauntingly Cute
+556503	556503001	PvE Leaderboard Rewards Withering Dreadspire 1st Place
+556504	556504001	PvE Leaderboard Rewards Withering Dreadspire 2nd, 3rd Place
+556505	556505001	GAMBLEWIN
+556506	556506001	GAMBLEWIN
+556507	556507001	GAMBLELOSE
+556508	556508001	GAMBLELOSE
+556509	556509001	Signs of What’s to Come
+556510	556510001	Warm to the Touch
+556511	556511001	Cold to the Bone
+556512	556512001	PvE Leaderboard Rewards The Abscess (Hard) 1st Place
+556513	556513001	PvE Leaderboard Rewards The Abscess (Hard) 2nd, 3rd Place
+556520	556520001	Test from a God
+556521	556521001	Dodging the Flames
+556522	556522001	Trial of Fire
+556523	556523001	Master of the Sanctum
+556524	556524001	Unscathed
+556525	556525001	Conquering the Hearth
+556530	556530001	Cleanse the Infection
+556531	556531001	Into the Nightmare
+556532	556532001	Awake at Last
 800000	800000001	Personal Title
 800001	800000001	Personal Title
 800002	800000001	Personal Title
@@ -2187,3 +2229,19 @@
 800115	800000001	Personal Title
 800116	800000001	Personal Title
 800117	800000001	Personal Title
+800118	800000001	Personal Title
+800119	800000001	Personal Title
+800120	800000001	Personal Title
+800121	800000001	Personal Title
+800122	800000001	Personal Title
+800123	800000001	Personal Title
+800124	800000001	Personal Title
+800125	800000001	Personal Title
+800126	800000001	Personal Title
+800127	800000001	Personal Title
+800128	800000001	Personal Title
+800129	800000001	Personal Title
+800130	800000001	Personal Title
+800131	800000001	Personal Title
+800132	800000001	Personal Title
+800133	800000001	Personal Title

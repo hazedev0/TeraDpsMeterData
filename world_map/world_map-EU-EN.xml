@@ -178,9 +178,6 @@
     <Guard id="26" mapId="" nameId="152" continentId="0">
       <Section id="72" mapId="WMap_VK_War_City" nameId="152" />
     </Guard>
-    <Guard id="28" mapId="" nameId="154" continentId="0">
-      <Section id="72" mapId="WMap_ATW_Death_Field_CU" nameId="154" />
-    </Guard>
     <Guard id="29" mapId="" nameId="159" continentId="0">
       <Section id="1" mapId="WMap_ASW_Field_02_CU" nameId="159" />
     </Guard>
@@ -203,6 +200,7 @@
       <Section id="912" mapId="WMap_BF_FreeFight" nameId="118001" />
       <Section id="913" mapId="WMap_BF_Honor" nameId="118002" />
       <Section id="915" mapId="WMap_DG_BF_NewBattle" nameId="156" />
+      <Section id="916" mapId="WMap_BF_03_5V5" nameId="120" />
       <Section id="2505" mapId="WMap_DG_Campaign_ExtremeSnow_BG" nameId="2505" type="dungeon" />
       <Section id="31" mapId="" nameId="162" />
     </Guard>
@@ -216,6 +214,7 @@
       <Section id="9048" mapId="WMap_T5_EX_Dice" nameId="9048001" />
       <Section id="90481" mapId="WMap_T5_EX_Dice_Boss" nameId="9048002" />
       <Section id="9714" mapId="WMap_VK_Empty_03" nameId="9714001" />
+      <Section id="2600" mapId="WMap_DG_HugeDragon_VT" nameId="2600001" />
       <Section id="9980" mapId="WMap_DG_VK_Basement_H" nameId="9980" type="dungeon" />
       <Section id="9780" mapId="WMap_DG_VK_Basement_L" nameId="9780" type="dungeon" />
       <Section id="9981" mapId="WMap_DG_Velik_Palace_DG_02" nameId="9981" type="dungeon" />
@@ -224,6 +223,8 @@
       <Section id="978101" mapId="WMap_DG_Velik_Palace_DG_01_L" nameId="9781006" type="dungeon" />
       <Section id="9681" mapId="WMap_DG_Velik_Palace_DG_02_S" nameId="9681" type="dungeon" />
       <Section id="968101" mapId="WMap_DG_Velik_Palace_DG_01_S" nameId="9681006" type="dungeon" />
+      <Section id="9985" mapId="WMap_DG_Velik_Palace_DG_TOM_02" nameId="9985" type="dungeon" />
+      <Section id="998501" mapId="WMap_DG_Velik_Palace_DG_TOM_01" nameId="9985006" type="dungeon" />
       <Section id="9505" mapId="WMap_DG_AWAKEN_VK_D" nameId="506004" type="dungeon" />
       <Section id="9506" mapId="WMap_DG_AWAKEN_VK_N" nameId="506001" type="dungeon" />
       <Section id="9507" mapId="WMap_AWAKEN_Dragon_P" nameId="507001" />
@@ -235,10 +236,12 @@
       <Section id="9503" mapId="WMap_DG_VK_AGIT_L" nameId="9503" />
       <Section id="3029" mapId="WMap_DG_MagicalPrison_03" nameId="3029" type="dungeon" />
       <Section id="3035" mapId="WMap_VK_Empty_04" nameId="3035001" />
+      <Section id="3111" mapId="WMap_AWAKEN_Dragon_P_DG_1" nameId="3111" />
     </Guard>
-    <Guard id="2" mapId="" nameId="0" continentId="0">
+    <Guard id="2" mapId="" nameId="0" continentId="157">
       <Section id="9036" mapId="WMap_SJ_03" nameId="9036001" />
       <Section id="9037" mapId="WMap_ATW_Empty_02" nameId="13009" />
+      <Section id="157" mapId="WMap_SWN_Field_01_CU" nameId="157" />
     </Guard>
     <Guard id="3" mapId="" nameId="0" continentId="0">
       <Section id="513" mapId="WMap_DG_QD_0" nameId="2001" />
@@ -247,6 +250,7 @@
       <Section id="9019" mapId="WMap_DG_AX2" nameId="9019001" />
       <Section id="9020" mapId="WMap_DG_ANC_A_SD" nameId="9020001" />
       <Section id="9090" mapId="WMap_DG_ANC_A" nameId="9090001" />
+      <Section id="9710" mapId="WMap_DG_Lakan_Twisted" nameId="9710001" type="dungeon" />
       <Section id="9713" mapId="EX_Ghillian_SD" nameId="9713001" />
     </Guard>
     <Guard id="4" mapId="" nameId="0" continentId="9088">
@@ -290,9 +294,12 @@
       <Section id="9031" mapId="WMap_HDG_SD_07" nameId="9031001" type="dungeon" />
       <Section id="9032" mapId="WMap_DG_SD_GOLDMAZE_P" nameId="9032001" type="dungeon" />
       <Section id="9033" mapId="WMap_DG_DarkCave_h_sd" nameId="9033001" type="dungeon" />
+      <Section id="9766" mapId="WMap_DG_SD_PirateShip" nameId="9766001" type="dungeon" />
       <Section id="9511" mapId="WMap_DG_DarkCave" nameId="9811001" type="dungeon" />
+      <Section id="9611" mapId="WMap_DG_DarkCave_h" nameId="9711001" type="dungeon" />
       <Section id="9757" mapId="WMap_DG_BurningCave" nameId="9757001" type="dungeon" />
       <Section id="9057" mapId="WMap_DG_BurningCave_h" nameId="9057001" type="dungeon" />
+      <Section id="3113" mapId="WMap_DG_BurningCave_h_vt" nameId="3113001" type="dungeon" />
       <Section id="9054" mapId="WMap_DG_Orca_Temple_01" nameId="9054001" type="dungeon" />
       <Section id="90541" mapId="WMap_DG_Orca_Temple_02" nameId="9054008" type="dungeon" />
       <Section id="9754" mapId="WMap_LDG_Orca_Temple_01" nameId="9054009" type="dungeon" />
@@ -314,6 +321,12 @@
       <Section id="904401" mapId="WMap_DG_Baharr_Sanctuary_Passage" nameId="9044001" type="dungeon" />
       <Section id="904402" mapId="WMap_DG_Baharr_Sanctuary_Boss01" nameId="9044003" type="dungeon" />
       <Section id="904403" mapId="WMap_DG_Baharr_Sanctuary_Boss02" nameId="9044004" type="dungeon" />
+      <Section id="904501" mapId="WMap_DG_Baharr_Sanctuary_Passage_IC" nameId="9045001" type="dungeon" />
+      <Section id="904502" mapId="WMap_DG_Baharr_Sanctuary_Boss01_IC" nameId="9045003" type="dungeon" />
+      <Section id="904503" mapId="WMap_DG_Baharr_Sanctuary_Boss02_IC" nameId="9045004" type="dungeon" />
+      <Section id="904801" mapId="WMap_DG_Baharr_Sanctuary_Passage_rew" nameId="9048001" type="dungeon" />
+      <Section id="904802" mapId="WMap_DG_Baharr_Sanctuary_Boss01_rew" nameId="9048003" type="dungeon" />
+      <Section id="904803" mapId="WMap_DG_Baharr_Sanctuary_Boss02_rew" nameId="9048004" type="dungeon" />
       <Section id="303701" mapId="WMap_DG_Baharr_Sanctuary_Passage_01" nameId="3037001" type="dungeon" />
       <Section id="303702" mapId="WMap_DG_Baharr_Sanctuary_Boss01_01" nameId="3037003" type="dungeon" />
       <Section id="303703" mapId="WMap_DG_Baharr_Sanctuary_Boss02_01" nameId="3037004" type="dungeon" />
@@ -331,6 +344,7 @@
     <Guard id="11" mapId="" nameId="0" continentId="0">
       <Section id="9062" mapId="WMap_SJ_04" nameId="8000052" type="dungeon" />
       <Section id="9094" mapId="WMap_DG_SD_10" nameId="9094001" type="dungeon" />
+      <Section id="9850" mapId="WMap_DG_SD_10_DS" nameId="9850001" type="dungeon" />
       <Section id="9061" mapId="WMap_DG_HSC_B_Quest" nameId="9061001" type="dungeon" />
       <Section id="98331" mapId="WMap_DG_AWAKEN_HSC_Loot_Vill" nameId="35001" />
       <Section id="98332" mapId="WMap_DG_AWAKEN_HSC_Loot_Field" nameId="35001" />
@@ -341,8 +355,8 @@
     <Guard id="12" mapId="" nameId="0" continentId="9071">
       <Section id="626" mapId="WMap_DG_SD_06" nameId="9071001" type="dungeon" />
       <Section id="9871" mapId="WMap_DG_SD_06_1p" nameId="9871001" type="dungeon" />
-      <Section id="3206" mapId="WMap_HEN_Empty_3206" nameId="3206002" type="dungeon" />
       <Section id="3106" mapId="WMap_HEN_Empty_3106" nameId="3106002" type="dungeon" />
+      <Section id="3206" mapId="WMap_HEN_Empty_3206" nameId="3206002" type="dungeon" />
     </Guard>
     <Guard id="13" mapId="" nameId="0" continentId="0">
       <Section id="9002" mapId="WMap_DG_HNC_A" nameId="9002001" />
@@ -364,7 +378,7 @@
       <Section id="9017" mapId="WMap_HEN_Empty_01" nameId="9017001" />
       <Section id="9051" mapId="WMap_DG_FV_SUM_DG02" nameId="9051001" type="dungeon" />
       <Section id="9777" mapId="WMap_DG_VK_Sewer" nameId="9777001" />
-      <Section id="9043" mapId="WMap_DG_EX_VK_SD1_T42" nameId="9043001" type="dungeon" />
+      <Section id="9043" mapId="WMap_DG_EX_VK_SD1_T42" nameId="9043001" />
       <Section id="9825" mapId="WMap_DG_T4_03_1p" nameId="9825001" />
       <Section id="9750" mapId="WMap_LDG_EX01_Kamai_SD" nameId="9050006" />
     </Guard>
@@ -392,6 +406,7 @@
       <Section id="9011" mapId="WMap_DG_SEC_Forge" nameId="9011001" type="dungeon" />
       <Section id="9064" mapId="WMap_SJ_05" nameId="8000053" type="dungeon" />
       <Section id="9075" mapId="WMap_DG_SD_08" nameId="9075001" type="dungeon" />
+      <Section id="9911" mapId="WMap_DG_SD_Low" nameId="9911001" type="dungeon" />
     </Guard>
     <Guard id="20" mapId="" nameId="0" continentId="0">
       <Section id="9063" mapId="WMap_DG_SSC_B_Quest" nameId="8000050" type="dungeon" />
@@ -417,6 +432,8 @@
       <Section id="90271" mapId="WMap_SWC_SD_02CH" nameId="9027002" />
       <Section id="3060" mapId="WMap_SWC_SD_02BH" nameId="3060001" />
       <Section id="30601" mapId="WMap_SWC_SD_02CH" nameId="3060002" />
+      <Section id="3112" mapId="WMap_SWC_SD_02BH_VT" nameId="3112001" />
+      <Section id="31121" mapId="WMap_SWC_SD_02CH_VT" nameId="3112002" />
       <Section id="9034" mapId="WMap_DG_SD_08_DS" nameId="9034" type="dungeon" />
     </Guard>
     <Guard id="23" mapId="" nameId="0" continentId="0">
@@ -504,6 +521,16 @@
       <Section id="3031" mapId="WMap_DG_FDI_Core_PK_P" nameId="3031001" type="dungeon" />
       <Section id="3104" mapId="WMap_DG_Rucmia_3104" nameId="3104" type="dungeon" />
       <Section id="3204" mapId="WMap_DG_Rucmia_3204" nameId="3204" type="dungeon" />
+      <Section id="3105" mapId="WMap_DG_FDI_04_3F_FL" nameId="3105" type="dungeon" />
+      <Section id="3205" mapId="WMap_DG_FDI_04_3F_CFL" nameId="3205" type="dungeon" />
+    </Guard>
+    <Guard id="29" mapId="" nameId="0" continentId="3051">
+      <Section id="3051" mapId="WMap_ATW_Field_01" nameId="3051" />
+      <Section id="3051002" mapId="WMap_ATW_Field_01" nameId="3051002" />
+      <Section id="64001" mapId="WMap_ATW_Field_01" nameId="64001" />
+      <Section id="3051011" mapId="WMap_ATW_Field_01" nameId="3051011" />
+      <Section id="9035" mapId="WMap_SJ_03" nameId="9036001" />
+      <Section id="3052" mapId="WMap_SJ_03_3052" nameId="3052" />
     </Guard>
     <Guard id="61" mapId="" nameId="0" continentId="0">
       <Section id="9126" mapId="WMap_DG_T5AL5_01" nameId="9126001" type="dungeon" />
@@ -516,7 +543,7 @@
     <Guard id="63" mapId="" nameId="0" continentId="0">
       <Section id="3039" mapId="WMap_SJ_06" nameId="3039001" type="dungeon" />
     </Guard>
-    <Guard id="31" mapId="WMap_SNC_PvP_Guard" nameId="2506" continentId="2506">
+    <Guard id="31" mapId="WMap_SNC_PvP_Field_01" nameId="2506" continentId="2506">
       <Section id="247" mapId="WMap_SNC_PvP_Vill_01" nameId="2506" />
       <Section id="249" mapId="WMap_SNC_PvP_Field_01" nameId="2506" />
     </Guard>

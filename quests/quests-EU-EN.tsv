@@ -28,7 +28,6 @@
 242001	The Last Argument
 243001	Hazardous Hunting
 244001	The Faerie Emissary
-250001	The tree behind me is the World Tree!
 270001	Suppression Orders: Sabertooths (Guild)
 271001	Suppression Orders: Centaurs (Guild)
 272001	Rise of the Dead
@@ -91,6 +90,7 @@
 441001	Don't Cross the Streams
 443001	Essence of Bahaar
 444001	Shards of Blood and Fire
+469018	Decided to go to the underground with Syona.
 470001	(Guild) Suppression Orders: Interlopers
 471001	(Guild) Suppression Orders: Fangspawns and Groknars
 472001	(Guild) Suppression Orders: Shurian Alliance
@@ -373,6 +373,9 @@
 1350001	Strange Attractors
 1351001	Supply and Demand
 1352001	Supply and Demand
+1353001	[Important] Island of Dawn Hunters
+1354001	[Important] Invasive Measures
+1360001	[Hunt] Dawn Fire Tribe
 1371001	Warrior Training
 1372001	Lancer Training
 1373001	Slayer Training
@@ -390,7 +393,6 @@
 1389001	Emptying Pandora's Box
 1390001	Special Delivery
 1391001	[Party Recommended] Corrupted Souls Never Rest
-1392001	Paws in Mid-Battle
 1394001	Making Friends or Enemies?
 1504001	A Manor Invasion
 1505001	Discredit Where Credit Is Due
@@ -469,6 +471,7 @@
 1737001	How to Keep a Secret
 1770001	(Guild) Heavens Fail
 1771001	(Guild) Hog Hunting
+1811901	Diver
 1821001	Desert Fire Uprising
 1822001	Researching Relics
 1823001	Slip of the Spell
@@ -1004,7 +1007,7 @@
 4136001	Enemy Monsters
 4137001	Are You a Fan of Delicious Flavor?
 4138001	The Red Flower of Courage
-4150001	[Dungeon - 476] Red Refuge
+4150001	[Dungeon - 515] Red Refuge
 4151001	[Dungeon - 492] Into the Abyss
 4170001	(Guild) Suppression Orders: Black Claw Fighters and Raiders
 4171001	(Guild) Suppression Orders: Ravenous Basilisks
@@ -1040,6 +1043,7 @@
 4272001	Suppression Orders: Second Floor Remnants
 4273001	Suppression Orders: Third Floor Nagas
 4280001	Suppression Orders: Third Floor Remnants
+4340101	Jester's Hilarious Jokes
 4503001	Building a Mysterium
 4521001	A Little Help
 4522001	Observations in the Field
@@ -1406,36 +1410,7 @@
 5783001	Suppression Orders: Atel Akaad
 5784001	Suppression Orders: Sikandaris
 5785001	Suppression Orders: Killian's Enforcers
-5801001	A Very Horned Problem
-5802001	Ir-Ration-al Response
-5803001	Shifting Harmony
-5804001	Back To The Ashes
-5805001	Gateway to Adventure
-5806001	Bad Tree! Bad!
-5807001	Very Rocky Garden
-5808001	{@RawItem:206827} Supply
-5809001	Looking for a Lost Friend
-5810001	Trumped Tower
-5811001	[Important] Blood Pact Fulfilled
-5812001	Bee-Keepers Gone Wild
-5813001	Sharing The News
-5814001	Looking For A Gardener?
-5815001	Moving Forward
-5816001	Eliminate The Bloody Devas
-5817001	Escorting The Lost Nagas
-5818001	Scattered Cartography
-5819001	[Battleground] Learning the Basics
-5820001	[Battleground] The Horns of Triumph
-5821001	[Battleground] Fires of Victory
-5822001	[Battleground] Blood and Sand
-5823001	[Battleground] Road to Triumph
 5850001	Clean Slate
-5851001	Renegade Brigade
-5852001	Fates Intertwined
-5853001	One with the Forest
-5854001	Covenant Conspiracy
-5855001	Infernal Ties
-5856001	Taste of the Inferno
 5857001	The USDA Wouldn't Like This
 5860001	Snowballs for Peace
 5861001	[Important - Equipment] Bizarre Phenomenon in Arborea
@@ -1445,7 +1420,7 @@
 6002001	[Dungeon] Bringing Down Exodor
 6050001	The Missing Ingredient
 6099001	An Enchanting Story
-6140001	[Dungeon - 512] Frozen Bahaar's Sanctum
+6140001	[Dungeon - 512] Bahaar's Sanctum
 6301001	Round, Round, Get Around
 6302001	Give It the Ol' Collegium Try
 6304001	Duel Purpose
@@ -1757,6 +1732,7 @@
 21307001	Bitter Truth
 21311001	Littered Path
 21312001	Sign of Hope
+30390101	[Daily Gathering] Mining and Gathering
 41101001	The Forge Master
 41102001	Go for Broken.
 41103001	Another Smith
@@ -1772,7 +1748,6 @@
 42524001	Balder's Final Test
 42571001	(Guild) Suppression Orders: Guardians of {@Rgn:9025001}
 42581001	Suppression Orders: Guardians of {@Rgn:9025001}
-46901001	Echo of Castle Aranea
 47121001	Vanished Spirit
 47122001	Soulless Body
 47123001	Deeply Rooted Grudge
@@ -2051,7 +2026,6 @@
 60804001	Cutting Expenses
 60805001	Routine Delivery
 60806001	Urgent Delivery
-60807001	Human Resources
 60808001	Dealing with Shrinkage
 60809001	Gentle Reminders
 60811001	Friend of the Family
@@ -2106,6 +2080,8 @@
 70121001	[Event—Daily] Beauty at the Beach
 70122001	[Event] Ramsay's New Hobby
 70123001	[Event] Splishy Splashy
+70124001	[Event—Daily] Under the Ghilliedhu Tree
+70125001	[Event] Blossoms of Devotion
 70201001	[Rootstock] Going to the Fair
 70202001	[Rootstock] Get Back to Your Roots
 70203001	[Rootstock] Create a Farmer's Almanac
@@ -2222,6 +2198,7 @@
 250609001	Whereabouts of the Argons
 250610001	Unveil the Secrets
 250611001	Recording of the Past
+250612001	[Daily] Hunt Gilgash Guardians
 250701001	[Daily] Mining Ores
 250702001	[Daily] Absorbing Energy
 250703001	[Daily] Harvesting Plants
@@ -2239,17 +2216,107 @@
 302501001	Clean up Azart Hatchery III
 302502001	Clean up Azart Hatchery IV
 302601001	[Dungeon - 473] Argon Plot
-302701001	[Dungeon - 473] Past is Prologue
+302701001	[Dungeon - 524] Past is Prologue
 303101001	[Field PvP] Conquer the Outer Core District
 303501001	Velik's Call
 303502001	Velik's Call
 303503001	Velik's Call
+305101001	Dawn's Twilight
+305103001	The Secret Life of Trees
+305104001	Making the Rounds
+305105001	A Clue in the Dark
+305106001	Traces of Darkness
+305107001	Live by the Sword
+305108001	Essence of Foreboding
+305109001	Acharak Attacks
+305110001	Crimson Contribution
+305111001	Redeployment
+305112001	The Dark Patrol
+305113001	Into the Gorge
+305115001	Putting the Pieces Together
+305116001	Dark Revelations
+305117001	Ride Off into the Sunset
+305122001	Unrest in the Forest
+305127001	Garrison in Distress
+305129001	Going Above and Beyond
+305130001	Conquering the Horrors
+305131001	Climbing through the Ranks
+305132001	They'll Eat Anything
+305133001	Twice the Zeal, Twice the Threat
+305135001	One of Our Couriers Is Missing
+305137001	Reclaiming Resources
+305138001	Herbal Remedies
+305139001	Sersine, She Seeks Shackles
+305140001	Painful Disc-overies
+305141001	Bequest of the Dead
+305144001	From Fierce to Friendly
+305147001	Reach the Kumas
+305148001	Ferocious Flowering Felons
+305149001	Shadows in the Gorge
+305150001	Strange Attractors
+305151001	Supply and Demand
+305171001	Warrior Training
+305172001	Lancer Training
+305173001	Slayer Training
+305174001	Berserker Training
+305175001	Archer Training
+305176001	Sorcerer Training
+305177001	Priest Training
+305178001	Mystic Training
+305179001	Gunner Training
+305182001	Gathering Your Strength
+305183001	Gathering Your Strength
+305184001	Getting to Know the Garrison
+305190001	Ninja Training
+305191001	Valkyrie Training
+305192001	Reaper Training
+305193001	Brawler Training
+305194001	Saddle Up!
+305195001	Through the Veil to Dawn
+305196001	[Important] Dungeon Exploration
+305197001	[Important] Road to Being Awakened
+305198001	[Important] Road to Being Elder
+305199001	[Important] Road to +9 Elder's Gear
+305301001	A Missing Companion
+305302001	Explosive Delivery
+305303001	Blooming Tribute
+305304001	Tempest’s Approach
+305305001	Essence of the Ghilliedhus
+305306001	Molochs’ Wrath
+305307001	Storm on the Horizon
+305308001	Essence of the Beast
+305309001	Barakas' Last Stand
+305310001	A Call to Arms
+305311001	Shadows of the Fallen
+305312001	Unleashed Fury
+305313001	A Weapon Lost
+305314001	The Unicorn's Blessing
+305401001	[Loalle's Mission Board] Ravenous Gorge
+305402001	[Loalle's Mission Board] Red Refuge
+305403001	[Loalle's Mission Board] Kalivan's Dreadnaught
+305404001	[Loalle's Mission Board] RK-9 Kennel
+305405001	[Loalle's Mission Board] Draakon Arena
+305406001	[Loalle's Mission Board] Grotto of Lost Souls
+305407001	[Loalle's Mission Board] Red Refuge (Hard)
+305408001	[Loalle's Mission Board] Forbidden Arena [Hagufna]
+305409001	[Loalle's Mission Board] Grotto of Lost Souls (Hard)
+305410001	[Loalle's Mission Board] Bahaar's Sanctum
+305411001	[Loalle's Mission Board] Ruinous Manor
+305420001	[Loalle's Mission Board] Ravenous Gorge
+305450001	[Daily - Low] Collecting Dim Boss Essence
+305451001	[Daily - Medium] Collecting Faint Boss Essence
+305452001	[Daily - High] Collecting Radiant Boss Essence
 310101001	[Dungeon - 527] Dawn of the Butterflies
 310102001	[Dungeon - 527] Gossamer Vault (Hard)
 700012001	Complete Timescape (Normal)
 700013001	Complete Akasha's Trial
 700014001	Complete Baracos' Trial
+700015001	Complete Timescape (Hard)
+700017001	Complete Timescape (Normal)
+700018001	Complete Timescape (Hard)
 700019001	Complete Lilith's Keep
+700020001	Complete Lilith's Keep (Hard)
+700021001	Complete Lilith's Keep (Hard)
 700022001	Complete Sky Cruiser Endeavor (Hard)
 700023001	Complete Ruinous Manor
 700024001	Complete Ruinous Manor (Hard)
@@ -2259,15 +2326,20 @@
 700031001	Complete Bathysmal Rise (Hard)
 700032001	Complete Akeron's Inferno (Hard)
 700035001	Complete the Thaumetal Refinery
-700036001	Complete the Thaumetal Refinery (Hard)
 700037001	Complete Sky Cruiser Endeavor
 700038001	Complete Ravenous Gorge
 700040001	Complete the RK-9 Kennel
+700041001	Conquer Sky Cruiser Endeavor Deck (Extreme)
 700042001	Complete the Red Refuge
+700043001	Conquer Scorching Akeron's Inferno (10-Man)
 700045001	Conquer Antaroth's Abyss (Hard)
+700046001	Complete Lumikan's Dream
+700047001	Complete Lumikan's Dream (Hard)
 700049001	Conquer the Grotto of Lost Souls (Hard)
-700050001	Complete Frozen Bahaar's Sanctum
-700051001	Complete Lilith's Keep
+700050001	Complete Bahaar's Sanctum
+700051001	Complete [Ace] Lilith's Keep
+700052001	Complete Sanctum of the Fire God
+700053001	Complete Sanctum of the Fire God
 700055001	Complete Gossamer Vault
 700056001	Complete Gossamer Vault (Hard)
 700057001	Conquer Akalath Quarantine
@@ -2277,55 +2349,54 @@
 700061001	Complete Draakon Arena
 700062001	Complete Draakon Arena (Hard)
 700063001	Complete Kezzel's Gorge
-700064001	Take Over Dragon's Nest [Sat/Sun]
+700064001	Take Over Commander's Residence [Sat/Sun]
 700065001	Complete Rampaging RK-9 Kennel
 700066001	Conquer Forbidden Arena: [Undying Warlord]
 700067001	Conquer Forbidden Arena: [Nightmare Undying Warlord]
 700068001	Complete Sky Cruiser (Hard)
 700069001	Complete [Ace] Sky Cruiser Endeavor
 700070001	Complete [Ace] Ruinous Manor
+700071001	Complete [Ace] RK-9 Kennel
+700072001	Teleport to Harrowhold [Progression]
+700075001	Complete Santuary's Ruins
+700076001	Complete Santuary's Ruins
+700077001	Complete Shattered Fleet
+700078001	Complete Shattered Fleet
+700079001	Complete Cursed Fusion Laboratory
+700080001	Complete Cursed Fusion Laboratory
 700082001	Complete Akeron's Inferno
 700083001	Complete Demokron Factory (Hard)
 700084001	Complete Manglemire
-700085001	Complete Channelworks
-700086001	Complete Kalivan's Dreadnaught
-700087001	Complete Kezzel's Gorge
-700088001	Complete Shadow Sanguinary (Hard)
-700089001	Complete Shadow Sanguinary (Normal)
-700090001	Complete Dark Reach Citadel (Normal)
-700091001	Complete Dark Reach Citadel (Hard)
-700092001	Complete Velik's Sanctuary (Normal)
-700093001	Complete Sanctuary's Ruins (Hard)
-700094001	Complete Velik's Hold (Hard)
-700095001	Complete Antaroth's Abyss (Normal)
-700096001	Complete Red Refuge (Normal)
-700097001	Complete Red Refuge (Hard)
-700098001	Conquer Dreadspire
-700099001	Conquer Scorching Sky Cruiser
-700101001	Survive Dreadspire Lower Floors
-700102001	Survive Dreadspire Middle Floors
-700103001	Complete Lumikan's Dream
-700104001	Complete Lumikan's Dream (Hard)
-700105001	Complete Crimson Killing Grounds
-700106001	Complete Killing Grounds
-700112001	Complete Timescape (Normal)
+700107001	Complete The Veil (Darkan)
+700108001	Complete The Veil (Darkan)
+700109001	Complete Fusion Laboratory
+700110001	Complete Fusion Laboratory
 700113001	Complete Akasha's Trial
 700114001	Complete Baracos' Trial
+700115001	Survive Withering Dreadspire
+700116001	Survive Withering Dreadspire
+700117001	Survive Kelsaik's Raid
+700118001	Survive Kelsaik's Raid
+700119001	Complete Lilith's Keep
 700122001	Complete Sky Cruiser Endeavor (Hard)
+700123001	Complete Ruinous Manor
+700124001	Complete Ruinous Manor (Hard)
 700127001	Complete Velik's Hold
 700129001	Complete Velik's Sanctuary
 700134001	Conquer Forsaken Island (Hard)
 700135001	Complete the Thaumetal Refinery
-700136001	Complete the Thaumetal Refinery (Hard)
 700137001	Complete Sky Cruiser Endeavor
 700138001	Complete Ravenous Gorge
+700139001	Conquer Forsaken Island
 700140001	Complete the RK-9 Kennel
 700141001	Conquer the RK-9 Kennel (Hard)
 700142001	Complete the Red Refuge
 700145001	Complete Antaroth's Abyss (Hard)
+700146001	Conquer Forsaken Island (Hard)
+700147001	Conquer Forsaken Island
 700149001	Conquer the Grotto of Lost Souls (Hard)
-700150001	Complete Frozen Bahaar's Sanctum
-700151001	Complete Lilith's Keep
+700150001	Complete Bahaar's Sanctum
+700151001	Complete [Ace] Lilith's Keep
 700153001	Conquer Antaroth's Abyss (7-person)
 700155001	Complete Gossamer Vault
 700156001	Complete Gossamer Vault (Hard)
@@ -2336,27 +2407,20 @@
 700161001	Complete Draakon Arena
 700162001	Complete Draakon Arena (Hard)
 700163001	Complete Kezzel's Gorge
-700164001	Take Over Dragon's Nest [Sat/Sun]
+700164001	Take Over Commander's Residence [Sat/Sun]
 700165001	Complete Rampaging RK-9 Kennel
 700166001	Conquer Forbidden Arena: [Undying Warlord]
 700167001	Conquer Forbidden Arena: [Nightmare Undying Warlord]
 700168001	Complete Sky Cruiser (Hard)
+700169001	Complete Rampaging RK-9 Kennel
+700170001	Conquer the Grotto of Lost Souls
+700171001	Conquer the Grotto of Lost Souls (Hard)
+700172001	Complete Akeron's Inferno (Hard)
+700173001	Conquer Sky Cruiser Endeavor Deck (Extreme)
+700174001	Complete Sea of Honor
 700182001	Complete Akeron's Inferno
 700183001	Complete Demokron Factory (Hard)
 700184001	Complete Manglemire
-700185001	Complete Channelworks
-700186001	Complete Kalivan's Dreadnaught
-700187001	Complete Kezzel's Gorge
-700188001	Complete Shadow Sanguinary (Hard)
-700189001	Complete Shadow Sanguinary (Normal)
-700190001	Complete Dark Reach Citadel (Normal)
-700191001	Complete Dark Reach Citadel (Hard)
-700192001	Complete Velik's Sanctuary (Normal)
-700193001	Complete Sanctuary's Ruins (Hard)
-700194001	Complete Velik's Hold (Hard)
-700195001	Complete Antaroth's Abyss (Normal)
-700196001	Complete Red Refuge (Normal)
-700197001	Complete Red Refuge (Hard)
 700198001	Conquer the Grotto of Lost Souls
 700199001	Conquer the Demon's Wheel
 700200001	Complete Corrupted RK-9 Kennel
@@ -2372,8 +2436,9 @@
 800009001	Complete the Labyrinth of Terror!
 800010001	Complete the Ebon Tower
 800012001	Complete the Timescape
-800014001	Conquer the Abscess (7-person)
+800014001	Conquer the Abscess (Hard)
 800015001	Complete the Timescape
+800015001	Conquer the Abscess (Hard)
 800016001	Win in Corsair's Stronghold
 800017001	Win in Gridiron
 800018001	Win in Kumasylum
@@ -2551,9 +2616,15 @@
 810143001	Hunt Lok Believers
 810144001	Hunt Mossy Ghilliedhus
 820001001	[Daily Battle Pass Novice]
-820002001	[Daily Battle Pass Expert]
-820003001	[Daily Battle Pass PvP]
-970010001	Win in Shore Hold.
+820002001	[Daily Battle Pass Advanced]
+820003001	[Daily Battle Pass Expert]
+820004001	[Daily Battle Pass PvP]
+820005001	[Daily Battle Pass Novice]
+820006001	[Daily Battle Pass Advanced]
+820007001	[Daily Battle Pass Expert]
+820008001	[Daily Battle Pass PvP]
+820010001	[Item EXP Tome Claim]
+970010001	Win in Champion's Arena.
 970011001	Win in Kumas Royale
 970012001	It's Time for Wintera Snowfield!
 970110001	[Unified Gear] Gain Victory in Shore Hold.
@@ -2561,6 +2632,7 @@
 970112001	It's Time for Wintera Snowfield!
 970113001	[Unified Gear] Gain Victory in Blitz Barrage.
 970114001	It's Time for Coastal Battleground!
+970115001	[Unified Gear] Gain Victory in Champion's Arena.
 980051001	Win in the Iron Battleground
 980052001	Win in the Iron Battleground
 980053001	Win in the Iron Battleground
@@ -2618,6 +2690,12 @@
 999710001	Conquer Blessing Basin
 999711001	Conquer Essenian Crest
 999712001	Conquer Sienna Canyon
+999713001	Solo/Party Hunt Brutal BAMS
+999750001	Hunt Naga Conquerors
+999751001	Hunt Kumases
+999752001	Hunt Fiery Molochs
+999753001	Hunt Storm Lizards
+999754001	Hunt Unbridled Demons
 999805001	Complete Manaya's Core
 999809001	Dungeon Raiders
 999811001	Clean up the Velika Outskirts
@@ -2689,6 +2767,7 @@
 999904001	Suppression Orders: Guardian of the Relic
 999905001	Complete Manaya's Core
 999906001	Complete The Plexus (Hard)
+999907001	Complete The Plexus (Hard)
 999909001	Apply for Dungeon Raiders!
 999911001	Clean up the Velika Outskirts
 999912001	Hunt Mandrills
@@ -2739,6 +2818,8 @@
 999963001	Complete Bathysmal Rise
 999964001	Complete Rift's Edge
 999965001	Hunt Valley Noruks
+999966001	Complete Bathysmal Rise
+999967001	Complete Bathysmal Rise (Hard)
 999975001	Clean up Boscan Terrace
 999976001	Hunt Parthian Bowmen
 999977001	Hunt Archdevan Imperial Officers
