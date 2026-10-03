@@ -32,3 +32,9 @@ glyph*.tsv
 GliphId	SkillName	SkillId	SkillIconName	GlyphName	GlyphIcon	Tooltip
 
 There are some issues in glyph*.tsv, skill Id and icon can be wrong or even absent, especially for non-english files
+
+Updating data for TCC:
+----------------------
+TCC downloads the files listed in `database-hashes.json` from this branch whenever its local copy has a different hash.
+After changing any data file, run `python tools/update_hashes.py` and commit the hash file together with the data.
+Keep column layouts unchanged: TCC and ShinraMeter read these files by column index.
