@@ -10,7 +10,17 @@
 61122	Common	Common	Gunner	Time Bomb XI!	False	Boom	icon_skills.timebombshot_tex
 71121	Common	Common	Gunner	Arcane Barrage!	False	Boom	icon_skills.arcaneshockshot01_tex
 71122	Common	Common	Gunner	Arcane Barrage!	False	Boom	icon_skills.arcaneshockshot01_tex
+71151	Common	Common	Gunner	Arcane Barrage!	False	Mega Boom	icon_skills.arcaneshockshot01_tex
 410131	Common	Common	Warrior	Aerial Scythe!	False	hit 2	icon_skills.tumblingattack_tex
+380100	Common	Common	Warrior	Scythe	False	DG	icon_skills.raker_tex
+380130	Common	Common	Warrior	Scythe	True	DG	icon_skills.raker_tex
+300930	Common	Common	Warrior	Scythe	True		icon_skills.raker_tex
+290930	Common	Common	Warrior	Blade Draw	True		icon_skills.dualslash_tex
+370100	Common	Common	Warrior	Blade Draw	False	DG	icon_skills.dualslash_tex
+370130	Common	Common	Warrior	Blade Draw	True	DG	icon_skills.dualslash_tex
+40930	Common	Common	Warrior	Rain of Blows	True		icon_skills.pointattack_tex
+360100	Common	Common	Warrior	Rain of Blows	False	DG	icon_skills.pointattack_tex
+360130	Common	Common	Warrior	Rain of Blows	True	DG	icon_skills.pointattack_tex
 80611	Common	Common	Archer	Rapid Fire!	False	hit 1	icon_skills.rapidshot_tex
 80612	Common	Common	Archer	Rapid Fire!	False	hit 2	icon_skills.rapidshot_tex
 80613	Common	Common	Archer	Rapid Fire!	False	hit 3	icon_skills.rapidshot_tex
@@ -18,3 +28,24 @@
 360221	Common	Common	Sorcerer	Prime Flame	False	fire	icon_skills.primalfire_tex
 360222	Common	Common	Sorcerer	Prime Flame	False	force	icon_skills.primalfire_tex
 360224	Common	Common	Sorcerer	Prime Flame	False	ice	icon_skills.primalfire_tex
+30840	Common	Common	Ninja	Harmonious Leaves on the Wind	False		icon_skills.c12_rapidshot
+31110	Common	Common	Berserker	Thunder Strike	False	0 Charge	icon_skills.blastslash_tex
+31111	Common	Common	Berserker	Thunder Strike	False	1 Charge	icon_skills.blastslash_tex
+31112	Common	Common	Berserker	Thunder Strike	False	2 Charges	icon_skills.blastslash_tex
+31113	Common	Common	Berserker	Thunder Strike	False	Max Charge	icon_skills.blastslash_tex
+31121	Common	Common	Berserker	Thunder Strike	False	0 Charge	icon_skills.blastslash_tex
+31122	Common	Common	Berserker	Thunder Strike	False	1 Charge	icon_skills.blastslash_tex
+31123	Common	Common	Berserker	Thunder Strike	False	2 Charges	icon_skills.blastslash_tex
+31124	Common	Common	Berserker	Thunder Strike	False	Max Charge	icon_skills.blastslash_tex
+240210	Common	Common	Berserker	Evasive Smash	False	0 Charge	icon_skills.ribbreaker_tex
+240211	Common	Common	Berserker	Evasive Smash	False	1 Charge	icon_skills.ribbreaker_tex
+240212	Common	Common	Berserker	Evasive Smash	False	2 Charges	icon_skills.ribbreaker_tex
+240213	Common	Common	Berserker	Evasive Smash	False	Max Charge	icon_skills.ribbreaker_tex
+101110	Common	Common	Berserker	Cyclone	False	0 Charge	icon_skills.whirlwind_tex
+101111	Common	Common	Berserker	Cyclone	False	1 Charge	icon_skills.whirlwind_tex
+101112	Common	Common	Berserker	Cyclone	False	2 Charges	icon_skills.whirlwind_tex
+101113	Common	Common	Berserker	Cyclone	False	Max Charge	icon_skills.whirlwind_tex
+101121	Common	Common	Berserker	Cyclone	False	0 Charge	icon_skills.whirlwind_tex
+101122	Common	Common	Berserker	Cyclone	False	1 Charge	icon_skills.whirlwind_tex
+101123	Common	Common	Berserker	Cyclone	False	2 Charges	icon_skills.whirlwind_tex
+101124	Common	Common	Berserker	Cyclone	False	Max Charge	icon_skills.whirlwind_tex
