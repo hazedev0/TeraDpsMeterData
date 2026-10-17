@@ -11571,6 +11571,25 @@
 		<Monster name="Halrath" id="5002" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Treasure Chest of the Fire God" id="7000" isBoss="False" hp="500000" speciesId="0" />
 	</Zone>
+	<Zone id="449" name="Hollowmare" >
+		<Monster name="Harvest Tuwangi" id="100" isBoss="False" hp="67100" speciesId="0" />
+		<Monster name="Halloween Tuwangi" id="101" isBoss="False" hp="55392" speciesId="0" />
+		<Monster name="Halloween Tuwangi Chief" id="102" isBoss="False" hp="186419" speciesId="0" />
+		<Monster name="Halloween Spirit" id="110" isBoss="False" hp="69241" speciesId="0" />
+		<Monster name="Halloween Sweet-Fiend" id="112" isBoss="False" hp="96937" speciesId="0" />
+		<Monster name="Halloween Rattlespear" id="120" isBoss="False" hp="332892" speciesId="0" />
+		<Monster name="Halloween Pale Rider" id="121" isBoss="False" hp="426102" speciesId="0" />
+		<Monster name="Serena" id="200" isBoss="False" hp="200" speciesId="0" />
+		<Monster name="Elin Reveler" id="201" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Popori Reveler" id="202" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Festival Staff" id="203" isBoss="False" hp="1818" speciesId="0" />
+		<Monster name="Popori Youngster" id="204" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Halloween Candy Basket" id="302" isBoss="False" hp="4200000" speciesId="0" />
+		<Monster name="Gourdo" id="400" isBoss="False" hp="66578" speciesId="0" />
+		<Monster name="Exit Teleportal" id="1001" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Hollowmere Treasure Chest" id="44713" isBoss="False" hp="100" speciesId="0" />
+		<Monster name="Gourdo's Treasure Chest" id="44714" isBoss="False" hp="100" speciesId="0" />
+	</Zone>
 	<Zone id="450" name="Rift's Edge (Hard)" >
 		<Monster name="Nightmare Yativio" id="1001" isBoss="True" hp="35000000000" speciesId="0" />
 		<Monster name="Nightmare Vesporax" id="1002" isBoss="True" hp="40000000000" speciesId="0" />
@@ -16917,12 +16936,12 @@
 		<Monster name="Defeat Nightmare Nedra" id="911" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Defeat Nightmare Ptakum" id="912" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Defeat Nightmare Kylos" id="913" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="Nightmare Nedra" id="1000" isBoss="True" hp="7500000000" speciesId="10" />
+		<Monster name="Nightmare Nedra" id="1000" isBoss="True" hp="2730000000" speciesId="10" />
 		<Monster name="Teleportal" id="1501" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Teleportal" id="1502" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Teleportal" id="1503" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="Nightmare Ptakum" id="2000" isBoss="True" hp="8250000000" speciesId="10" />
-		<Monster name="Nightmare Kylos" id="3000" isBoss="True" hp="19500000000" speciesId="3" />
+		<Monster name="Nightmare Ptakum" id="2000" isBoss="True" hp="2730000000" speciesId="10" />
+		<Monster name="Nightmare Kylos" id="3000" isBoss="True" hp="6373000000" speciesId="3" />
 		<Monster name="Portal Generator" id="5001" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Temple Guard" id="5002" isBoss="False" hp="30000000" speciesId="0" />
 	</Zone>
@@ -16962,7 +16981,7 @@
 		<Monster name="Teleportal" id="1504" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Teleportal" id="1505" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Nightmare Revived Dakuryon" id="2000" isBoss="True" hp="8000000000" speciesId="0" />
-		<Monster name="Nightmare Lakan" id="3000" isBoss="True" hp="27000000000" speciesId="4" />
+		<Monster name="Nightmare Lakan" id="3000" isBoss="True" hp="7124325120" speciesId="4" />
 		<Monster name="Nightmare Mutated Perimos" id="4000" isBoss="True" hp="1666666666" speciesId="0" />
 		<Monster name="Seir" id="5000" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Oriyn's Arcana" id="5001" isBoss="False" hp="13038" speciesId="0" />
@@ -20539,6 +20558,21 @@
 		<Monster name="Randun's Journal #7" id="6006" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Teleportal" id="6007" isBoss="False" hp="10000" speciesId="0" />
 	</Zone>
+	<Zone id="3108" name="Lachelith's Hall" >
+		<Monster name="Kill Revivified Atrocitas" id="911" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="Kill Revivified Malgarios" id="912" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="Kill Revivified Lachelith" id="913" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="(Boss) Go to the Lady's Chamber via a teleportal and kill Nightmare Lachelith." id="914" isBoss="False" hp="0" speciesId="0" />
+		<Monster name="Revivified Atrocitas" id="1000" isBoss="True" hp="32000000000" speciesId="7" />
+		<Monster name="Revivified Atrocitas" id="1001" isBoss="False" hp="12670" speciesId="7" />
+		<Monster name="Teleportal" id="1501" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Teleportal" id="1502" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Teleportal" id="1503" isBoss="False" hp="10000" speciesId="0" />
+		<Monster name="Revivified Malgarios" id="2000" isBoss="True" hp="30000000000" speciesId="7" />
+		<Monster name="Baby Arachnen" id="2001" isBoss="False" hp="2000000000" speciesId="0" />
+		<Monster name="Tasty Arachnen Egg" id="2002" isBoss="False" hp="100000" speciesId="0" />
+		<Monster name="Revivified Lachelith" id="3000" isBoss="True" hp="8767973880" speciesId="10" />
+	</Zone>
 	<Zone id="3111" name="The Veil (Darkan)" >
 		<Monster name="Veilbound Darkan" id="1000" isBoss="True" hp="12000000000" speciesId="10" />
 		<Monster name="Veilbroken Darkan" id="2000" isBoss="True" hp="17000000000" speciesId="10" />
@@ -20635,11 +20669,11 @@
 		<Monster name="Defeat the Hellgrammite" id="911" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Deactivate the stimulant pump" id="912" isBoss="False" hp="0" speciesId="0" />
 		<Monster name="Defeat Nightmare Gossamer Regent" id="913" isBoss="False" hp="0" speciesId="0" />
-		<Monster name="Nightmare Hellgrammite" id="1000" isBoss="True" hp="10500000000" speciesId="0" />
+		<Monster name="Nightmare Hellgrammite" id="1000" isBoss="True" hp="2730000000" speciesId="0" />
 		<Monster name="Teleportal" id="1501" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Teleportal" id="1502" isBoss="False" hp="10000" speciesId="0" />
 		<Monster name="Teleportal" id="1503" isBoss="False" hp="10000" speciesId="0" />
-		<Monster name="Nightmare Gossamer Regent" id="2000" isBoss="True" hp="11000000000" speciesId="0" />
+		<Monster name="Nightmare Gossamer Regent" id="2000" isBoss="True" hp="7124325120" speciesId="0" />
 		<Monster name="Regent's Egg" id="2001" isBoss="False" hp="5000000" speciesId="0" />
 		<Monster name="Nightmare Gossamer Regent" id="320127" isBoss="False" hp="500000000000" speciesId="0" />
 	</Zone>

@@ -259,6 +259,7 @@
       <Section id="9039" mapId="WMap_DG_ASE_A" nameId="9039001" />
       <Section id="9091" mapId="WMap_DG_ASE_ENC_SD" nameId="9091001" />
       <Section id="9047" mapId="WMap_EX_ASE_Halloween_T42" nameId="9047001" />
+      <Section id="9049" mapId="WMap_Hollowmere" nameId="9049001" />
       <Section id="9052" mapId="WMap_DG_FV_SUM_DG03" nameId="9052001" type="dungeon" />
       <Section id="9070" mapId="WMap_Lie_Empty" nameId="9070" type="dungeon" />
       <Section id="9769" mapId="WMap_DG_Lilith_Castle" nameId="9769" type="dungeon" />
@@ -267,6 +268,8 @@
       <Section id="99702" mapId="WMap_DG_Lachelith_Castle_02" nameId="9970" type="dungeon" />
       <Section id="97701" mapId="WMap_LDG_Lachelith_Castle_01" nameId="9770" type="dungeon" />
       <Section id="97702" mapId="WMap_LDG_Lachelith_Castle_02" nameId="9770" type="dungeon" />
+      <Section id="31081" mapId="WMap_DG_Lachelith_Castle_01" nameId="3108" type="dungeon" />
+      <Section id="31082" mapId="WMap_DG_Lachelith_Castle_02" nameId="3108" type="dungeon" />
     </Guard>
     <Guard id="5" mapId="" nameId="0" continentId="0">
       <Section id="553" mapId="WMap_DG_SD_03" nameId="9089001" type="dungeon" />

@@ -159,6 +159,7 @@
 3105	Fusion Laboratory
 3106	Killing Grounds
 3107	Corrupted RK-9 Kennel
+3108	Lachelith's Hall
 3111	The Veil (Darkan)
 3113	Scorching Akeron's Inferno (10-Man)
 3126	Corrupted Skynest (Hard)
@@ -1660,6 +1661,10 @@
 3107005	Restricted Area: D
 3107006	Restricted Area: E
 3107007	Observation Room
+3108001	Destroyed Garden
+3108002	Destroyed Keep
+3108003	Lady's Chamber
+3108004	Lachelith's Hall Entrance
 3112001	Raging Manaya's Core
 3112002	Raging Manaya's Core
 3113001	Scorching Akeron's Inferno (10-Man)
@@ -1912,6 +1917,7 @@
 9048002	Sanctum of the Fire God - Seal of Flame
 9048003	Sanctum of the Fire God - Chamber of the Flame Lord
 9048004	Sanctum of the Fire God - Chamber of the Flame Lord
+9049001	Hollowmere
 9050000	Rift's Edge Entrance
 9050001	Guwangi Village
 9050002	Guwangi Village Landing

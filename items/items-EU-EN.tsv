@@ -89194,6 +89194,7 @@
 290596	3	Falling Snowflakes	0	0	icon_equipments.acc_snowflake_tex
 290597	3	[2026 Event] Bloody Beach Coin	0	0	icon_items.bloodgoldcoin_tex
 290598	3	[2026 Event] Deluge Token	0	0	icon_items.silvercoin_tex
+290599	3	[2026] Gourdo's Secret Stash	0	0	icon_items.christmaspresent_tex
 290600	4	Worn Recipe	0	0	icon_items.conversionswap1_tex
 290601	4	Worn Recipe	0	0	icon_items.conversionswap1_tex
 290602	4	Worn Recipe	0	0	icon_items.conversionswap2_tex
@@ -89539,6 +89540,7 @@
 291095	3	Sparking Veilborne Reroll Scroll	0	0	icon_items.scroll_mysterypaper2_tex
 291096	3	Thundering Veilborne Reroll Scroll	0	0	icon_items.scroll_mysterypaper3_tex
 291097	3	Duality Gem	0	0	icon_items.splinteroftulsastone_tex
+291098	0	Pumpkin Bomb	0	30	icon_equipments.acc_031as
 292010	1	Shattered Pounding Bloodshard	0	0	icon_items.pounding1_tex
 292011	1	Intact Pounding Bloodshard	0	0	icon_items.pounding2_tex
 292012	2	Rare Pounding Bloodshard	0	0	icon_items.pounding3_tex
@@ -90039,6 +90041,7 @@
 293109	4	Body Armor Etching V Token (Untradeable)	0	0	icon_items.refinedplant_a11_tex
 293110	4	Footwear Etching V Token	0	0	icon_items.refinedplant_a08_tex
 293111	4	Footwear Etching V Token (Untradeable)	0	0	icon_items.refinedplant_a08_tex
+293112	3	Halloween Glasses	0	0	icon_equipments.acc_034a_tex
 293113	3	Fresh Pumpkin Mask	0	0	icon_equipments.acc_100p
 293114	3	Stylish Pumpkin Mask	0	0	icon_equipments.acc_101p
 293115	0	Ailuri Giantkiller Mask	0	0	icon_equipments.acc_031a_tex
@@ -90548,6 +90551,17 @@
 296497	4	Eclipse's Underwear (Phys. Resistance)	0	0	icon_equipments.ag_inner_m_tex
 296498	4	Eclipse's Underwear (Mag. Resistance)	0	0	icon_equipments.ag_inner_m_tex
 296499	4	Leaderboard Reward Box	0	0	icon_items.special_box02_tex
+296500	4	Furious Eclipse's Brooch	0	5	icon_equipments.stormbrooch_tex
+296501	4	Arcane Eclipse's Brooch	0	5	icon_equipments.stormbrooch_tex
+296502	4	Furious Eclipse's Belt	0	0	icon_equipments.sparkbelt_tex
+296503	4	Arcane Eclipse's Belt	0	0	icon_equipments.sparkbelt_tex
+296504	4	Furious Eclipse's Mask	0	0	icon_equipments.thundermask_tex
+296505	4	Arcane Eclipse's Mask	0	0	icon_equipments.thundermask_tex
+296506	3	Eclipse Brooch Reroll Scroll	0	0	icon_items.body_enchant_scroll_3_tex
+296507	3	Eclipse Belt Reroll Scroll	0	0	icon_items.body_enchant_scroll_4_tex
+296508	3	Eclipse Mask Reroll Scroll	0	0	icon_items.body_enchant_scroll_5_tex
+296509	3	Eclipse Gem	0	0	icon_items.green_fragment_tex
+296510	3	Summon Skill: Revivified Lachelith	0	0	icon_items.skillbook_lion1_tex
 297001	3	Kalash Lance	0	0	icon_equipments.kalash_lance_tex
 297002	3	Kalash Bow	0	0	icon_equipments.kalash_bow_tex
 297003	3	Kalash Twin Swords	0	0	icon_equipments.kalash_dual_tex
@@ -91497,43 +91511,43 @@
 602624	2	Reincarnation Scroll	0	0	icon_skills.autoresurrect_tex
 602625	2	Ally Summoning Scroll	0	0	icon_skills.recallfriend_tex
 811011	4	Wrathful Pumped Sovereign's Ring	0	0	icon_equipments.ag2_ring_tex
-811012	4	Wrathful Carving Sovereign's Ring	0	0	icon_equipments.ag2_ring_tex
+811012	4	Wrathful Carving Sovereign's Ring	0	0	icon_equipments.ag2_c_ring_tex
 811021	4	Cataclysmic Pumped Sovereign's Ring	0	0	icon_equipments.ag2_ring_tex
-811022	4	Cataclysmic Carving Sovereign's Ring	0	0	icon_equipments.ag2_ring_tex
+811022	4	Cataclysmic Carving Sovereign's Ring	0	0	icon_equipments.ag2_c_ring_tex
 811031	4	Transcendent Pumped Sovereign's Ring	0	0	icon_equipments.ag2_ring_tex
-811032	4	Transcendent Carving Sovereign's Ring	0	0	icon_equipments.ag2_ring_tex
+811032	4	Transcendent Carving Sovereign's Ring	0	0	icon_equipments.ag2_c_ring_tex
 811041	4	Ascendant Pumped Sovereign's Ring	0	0	icon_equipments.ag2_ring_tex
-811042	4	Ascendant Carving Sovereign's Ring	0	0	icon_equipments.ag2_ring_tex
+811042	4	Ascendant Carving Sovereign's Ring	0	0	icon_equipments.ag2_c_ring_tex
 812011	4	Wrathful Pumped Sovereign's Earring	0	0	icon_equipments.ag2_earring_tex
-812012	4	Wrathful Carving Sovereign's Earring	0	0	icon_equipments.ag2_earring_tex
+812012	4	Wrathful Carving Sovereign's Earring	0	0	icon_equipments.ag2_c_earring_tex
 812021	4	Cataclysmic Pumped Sovereign's Earring	0	0	icon_equipments.ag2_earring_tex
-812022	4	Cataclysmic Carving Sovereign's Earring	0	0	icon_equipments.ag2_earring_tex
+812022	4	Cataclysmic Carving Sovereign's Earring	0	0	icon_equipments.ag2_c_earring_tex
 812031	4	Transcendent Pumped Sovereign's Earring	0	0	icon_equipments.ag2_earring_tex
-812032	4	Transcendent Carving Sovereign's Earring	0	0	icon_equipments.ag2_earring_tex
+812032	4	Transcendent Carving Sovereign's Earring	0	0	icon_equipments.ag2_c_earring_tex
 813011	4	Wrathful Pumped Sovereign's Necklace	0	0	icon_equipments.ag2_necklace_tex
-813012	4	Wrathful Carving Sovereign's Necklace	0	0	icon_equipments.ag2_necklace_tex
+813012	4	Wrathful Carving Sovereign's Necklace	0	0	icon_equipments.ag2_c_necklace_tex
 813021	4	Cataclysmic Pumped Sovereign's Necklace	0	0	icon_equipments.ag2_necklace_tex
 813022	4	Cataclysmic Carving Sovereign's Necklace	0	0	icon_equipments.ag2_necklace_tex
 813031	4	Transcendent Pumped Sovereign's Necklace	0	0	icon_equipments.ag2_necklace_tex
 813032	4	Transcendent Carving Sovereign's Necklace	0	0	icon_equipments.ag2_necklace_tex
 814011	4	Wrathful Pumped Sovereign's Circlet	0	0	icon_equipments.ag2_circlet_tex
 814012	4	Wrathful Carving Sovereign's Circlet	0	0	icon_equipments.ag2_circlet_tex
-821011	4	Succoring Wrathful Pumped Sovereign's Ring	0	0	icon_equipments.ag2_ring_tex
-821012	4	Succoring Wrathful Carving Sovereign's Ring	0	0	icon_equipments.ag2_ring_tex
-821021	4	Succoring Cataclysmic Pumped Sovereign's Ring	0	0	icon_equipments.ag2_ring_tex
-821022	4	Succoring Cataclysmic Carving Sovereign's Ring	0	0	icon_equipments.ag2_ring_tex
-821031	4	Succoring Transcendent Pumped Sovereign's Ring	0	0	icon_equipments.ag2_ring_tex
-821032	4	Succoring Transcendent Carving Sovereign's Ring	0	0	icon_equipments.ag2_ring_tex
-821041	4	Succoring Ascendant Pumped Sovereign's Ring	0	0	icon_equipments.ag2_ring_tex
-821042	4	Succoring Ascendant Carving Sovereign's Ring	0	0	icon_equipments.ag2_ring_tex
-822011	4	Succoring Wrathful Pumped Sovereign's Earring	0	0	icon_equipments.ag2_earring_tex
-822012	4	Succoring Wrathful Carving Sovereign's Earring	0	0	icon_equipments.ag2_earring_tex
-822021	4	Succoring Cataclysmic Pumped Sovereign's Earring	0	0	icon_equipments.ag2_earring_tex
-822022	4	Succoring Cataclysmic Carving Sovereign's Earring	0	0	icon_equipments.ag2_earring_tex
-822031	4	Succoring Transcendent Pumped Sovereign's Earring	0	0	icon_equipments.ag2_earring_tex
-822032	4	Succoring Transcendent Carving Sovereign's Earring	0	0	icon_equipments.ag2_earring_tex
-823011	4	Succoring Wrathful Pumped Sovereign's Necklace	0	0	icon_equipments.ag2_necklace_tex
-823012	4	Succoring Wrathful Carving Sovereign's Necklace	0	0	icon_equipments.ag2_necklace_tex
+821011	4	Succoring Wrathful Pumped Sovereign's Ring	0	0	icon_equipments.ag2_h_ring_tex
+821012	4	Succoring Wrathful Carving Sovereign's Ring	0	0	icon_equipments.ag2_c_h_ring_tex
+821021	4	Succoring Cataclysmic Pumped Sovereign's Ring	0	0	icon_equipments.ag2_h_ring_tex
+821022	4	Succoring Cataclysmic Carving Sovereign's Ring	0	0	icon_equipments.ag2_c_h_ring_tex
+821031	4	Succoring Transcendent Pumped Sovereign's Ring	0	0	icon_equipments.ag2_h_ring_tex
+821032	4	Succoring Transcendent Carving Sovereign's Ring	0	0	icon_equipments.ag2_c_h_ring_tex
+821041	4	Succoring Ascendant Pumped Sovereign's Ring	0	0	icon_equipments.ag2_h_ring_tex
+821042	4	Succoring Ascendant Carving Sovereign's Ring	0	0	icon_equipments.ag2_c_h_ring_tex
+822011	4	Succoring Wrathful Pumped Sovereign's Earring	0	0	icon_equipments.ag2_h_earring_tex
+822012	4	Succoring Wrathful Carving Sovereign's Earring	0	0	icon_equipments.ag2_c_h_earring_tex
+822021	4	Succoring Cataclysmic Pumped Sovereign's Earring	0	0	icon_equipments.ag2_h_earring_tex
+822022	4	Succoring Cataclysmic Carving Sovereign's Earring	0	0	icon_equipments.ag2_c_h_earring_tex
+822031	4	Succoring Transcendent Pumped Sovereign's Earring	0	0	icon_equipments.ag2_h_earring_tex
+822032	4	Succoring Transcendent Carving Sovereign's Earring	0	0	icon_equipments.ag2_c_h_earring_tex
+823011	4	Succoring Wrathful Pumped Sovereign's Necklace	0	0	icon_equipments.ag2_h_necklace_tex
+823012	4	Succoring Wrathful Carving Sovereign's Necklace	0	0	icon_equipments.ag2_c_h_necklace_tex
 823021	4	Succoring Cataclysmic Pumped Sovereign's Necklace	0	0	icon_equipments.ag2_necklace_tex
 823022	4	Succoring Cataclysmic Carving Sovereign's Necklace	0	0	icon_equipments.ag2_necklace_tex
 823031	4	Succoring Transcendent Pumped Sovereign's Necklace	0	0	icon_equipments.ag2_necklace_tex

@@ -386,8 +386,8 @@
 170100	Common	Common	Archer	Web Arrow I	False		icon_skills.spiderarrow_tex
 170200	Common	Common	Archer	Web Arrow II	False		icon_skills.spiderarrow_tex
 170300	Common	Common	Archer	Web Arrow III	False		icon_skills.spiderarrow_tex
-170400	Common	Common	Archer	Web Arrow III	False		icon_skills.spiderarrow_tex
-170500	Common	Common	Archer	Web Arrow III	False		icon_skills.spiderarrow_tex
+170400	Common	Common	Archer	Web Arrow II	False		icon_skills.spiderarrow_tex
+170500	Common	Common	Archer	Web Arrow II	False		icon_skills.spiderarrow_tex
 180100	Common	Common	Archer	Close Quarters I	False		icon_skills.turningkick_tex
 180101	Common	Common	Archer	Close Quarters I	False		icon_skills.turningkick_tex
 180200	Common	Common	Archer	Close Quarters II	False		icon_skills.turningkick_tex
@@ -996,23 +996,23 @@
 150913	Common	Common	Berserker	Vampiric Blow IX	False		icon_skills.vampiricstrike_tex
 150914	Common	Common	Berserker	Vampiric Blow IX	False		icon_skills.vampiricstrike_tex
 151000	Common	Common	Berserker	Vampiric Blow X	False		icon_skills.vampiricstrike_tex
-151010	Common	Common	Berserker	Vampiric Blow X	False		icon_skills.vampiricstrike_tex
-151011	Common	Common	Berserker	Vampiric Blow X	False		icon_skills.vampiricstrike_tex
-151012	Common	Common	Berserker	Vampiric Blow X	False		icon_skills.vampiricstrike_tex
-151013	Common	Common	Berserker	Vampiric Blow X	False		icon_skills.vampiricstrike_tex
-151014	Common	Common	Berserker	Vampiric Blow X	False		icon_skills.vampiricstrike_tex
-151100	Common	Common	Berserker	Vampiric Blow X	False		icon_skills.vampiricstrike_tex
-151110	Common	Common	Berserker	Vampiric Blow X	False		icon_skills.vampiricstrike_tex
-151111	Common	Common	Berserker	Vampiric Blow X	False		icon_skills.vampiricstrike_tex
-151112	Common	Common	Berserker	Vampiric Blow X	False		icon_skills.vampiricstrike_tex
-151113	Common	Common	Berserker	Vampiric Blow X	False		icon_skills.vampiricstrike_tex
-151114	Common	Common	Berserker	Vampiric Blow X	False		icon_skills.vampiricstrike_tex
-151200	Common	Common	Berserker	Vampiric Blow X	False		icon_skills.vampiricstrike_tex
-151210	Common	Common	Berserker	Vampiric Blow X	False		icon_skills.vampiricstrike_tex
-151211	Common	Common	Berserker	Vampiric Blow X	False		icon_skills.vampiricstrike_tex
-151212	Common	Common	Berserker	Vampiric Blow X	False		icon_skills.vampiricstrike_tex
-151213	Common	Common	Berserker	Vampiric Blow X	False		icon_skills.vampiricstrike_tex
-151214	Common	Common	Berserker	Vampiric Blow X	False		icon_skills.vampiricstrike_tex
+151010	Common	Common	Berserker	Vampiric Blow IX	False		icon_skills.vampiricstrike_tex
+151011	Common	Common	Berserker	Vampiric Blow IX	False		icon_skills.vampiricstrike_tex
+151012	Common	Common	Berserker	Vampiric Blow IX	False		icon_skills.vampiricstrike_tex
+151013	Common	Common	Berserker	Vampiric Blow IX	False		icon_skills.vampiricstrike_tex
+151014	Common	Common	Berserker	Vampiric Blow IX	False		icon_skills.vampiricstrike_tex
+151100	Common	Common	Berserker	Vampiric Blow IX	False		icon_skills.vampiricstrike_tex
+151110	Common	Common	Berserker	Vampiric Blow IX	False		icon_skills.vampiricstrike_tex
+151111	Common	Common	Berserker	Vampiric Blow IX	False		icon_skills.vampiricstrike_tex
+151112	Common	Common	Berserker	Vampiric Blow IX	False		icon_skills.vampiricstrike_tex
+151113	Common	Common	Berserker	Vampiric Blow IX	False		icon_skills.vampiricstrike_tex
+151114	Common	Common	Berserker	Vampiric Blow IX	False		icon_skills.vampiricstrike_tex
+151200	Common	Common	Berserker	Vampiric Blow IX	False		icon_skills.vampiricstrike_tex
+151210	Common	Common	Berserker	Vampiric Blow IX	False		icon_skills.vampiricstrike_tex
+151211	Common	Common	Berserker	Vampiric Blow IX	False		icon_skills.vampiricstrike_tex
+151212	Common	Common	Berserker	Vampiric Blow IX	False		icon_skills.vampiricstrike_tex
+151213	Common	Common	Berserker	Vampiric Blow IX	False		icon_skills.vampiricstrike_tex
+151214	Common	Common	Berserker	Vampiric Blow IX	False		icon_skills.vampiricstrike_tex
 160100	Common	Common	Berserker	Fearsome Shout I	False		icon_skills.piercingshout_tex
 160200	Common	Common	Berserker	Fearsome Shout II	False		icon_skills.piercingshout_tex
 160300	Common	Common	Berserker	Fearsome Shout III	False		icon_skills.piercingshout_tex
@@ -1165,8 +1165,8 @@
 360100	Common	Common	Berserker	Unleashed: Rampage	False		icon_skills.rageboth_tex
 360130	Common	Common	Berserker	Unleashed: Rampage	False		icon_skills.rageboth_tex
 360131	Common	Common	Berserker	Unleashed: Rampage	False		icon_skills.rageboth_tex
-370100	Common	Common	Berserker	Unleashed: Beast Fury	False	Fury	icon_skills.ragerush_tex
-370130	Common	Common	Berserker	Unleashed: Beast Fury	False	Fury	icon_skills.ragerush_tex
+370100	Common	Common	Berserker	Unleashed: Beast Fury	False		icon_skills.ragerush_tex
+370130	Common	Common	Berserker	Unleashed: Beast Fury	False		icon_skills.ragerush_tex
 9100100	Common	Common	Berserker	Apex Urgency	False		icon_skills.awakenaura_tex
 10100	Common	Common	Brawler	Punch I	False		icon_skills.comboattack01_tex
 10101	Common	Common	Brawler	Punch I	False		icon_skills.comboattack02_tex
@@ -1736,18 +1736,18 @@
 170910	Common	Common	Brawler	Rampage IX	False		icon_skills.dashattack_tex
 171000	Common	Common	Brawler	Rampage X	False		icon_skills.dashattack_tex
 171010	Common	Common	Brawler	Rampage X	False		icon_skills.dashattack_tex
-180100	Common	Common	Brawler	Growing Fury	False	Fury	icon_skills.rampage_tex
-180101	Common	Common	Brawler	Growing Fury	False	Fury	icon_skills.rampage_tex
-180102	Common	Common	Brawler	Growing Fury	False	Fury	icon_skills.rampage_tex
-180130	Common	Common	Brawler	Growing Fury	False	Fury	icon_skills.rampage_tex
-180140	Common	Common	Brawler	Growing Fury	False	Fury	icon_skills.rampage_tex
-180141	Common	Common	Brawler	Growing Fury	False	Fury	icon_skills.rampage_tex
-180142	Common	Common	Brawler	Growing Fury	False	Fury	icon_skills.rampage_tex
-180143	Common	Common	Brawler	Growing Fury	False	Fury	icon_skills.rampage_tex
-180160	Common	Common	Brawler	Growing Fury	False	Fury	icon_skills.rampage_tex
-180161	Common	Common	Brawler	Growing Fury	False	Fury	icon_skills.rampage_tex
-180162	Common	Common	Brawler	Growing Fury	False	Fury	icon_skills.rampage_tex
-180163	Common	Common	Brawler	Growing Fury	False	Fury	icon_skills.rampage_tex
+180100	Common	Common	Brawler	Growing Fury	False		icon_skills.rampage_tex
+180101	Common	Common	Brawler	Growing Fury	False		icon_skills.rampage_tex
+180102	Common	Common	Brawler	Growing Fury	False		icon_skills.rampage_tex
+180130	Common	Common	Brawler	Growing Fury	False		icon_skills.rampage_tex
+180140	Common	Common	Brawler	Growing Fury	False		icon_skills.rampage_tex
+180141	Common	Common	Brawler	Growing Fury	False		icon_skills.rampage_tex
+180142	Common	Common	Brawler	Growing Fury	False		icon_skills.rampage_tex
+180143	Common	Common	Brawler	Growing Fury	False		icon_skills.rampage_tex
+180160	Common	Common	Brawler	Growing Fury	False		icon_skills.rampage_tex
+180161	Common	Common	Brawler	Growing Fury	False		icon_skills.rampage_tex
+180162	Common	Common	Brawler	Growing Fury	False		icon_skills.rampage_tex
+180163	Common	Common	Brawler	Growing Fury	False		icon_skills.rampage_tex
 190100	Common	Common	Brawler	Invigorating Rage	False		icon_skills.relax_tex
 190101	Common	Common	Brawler	Invigorating Rage	False		icon_skills.relax_tex
 190102	Common	Common	Brawler	Invigorating Rage	False		icon_skills.relax_tex
@@ -3332,197 +3332,197 @@
 480100	Common	Common	Mystic	Summon: Thrall Lord	False		icon_skills.summonspiritking_tex
 9100100	Common	Common	Mystic	Apex Urgency	False		icon_skills.awakenaura_tex
 10100	Common	Common	Ninja	Combo Attack I	False		icon_skills.c12_meleecombo
-10101	Common	Common	Ninja	Combo Attack I	False		icon_skills.comboattack_tex
-10102	Common	Common	Ninja	Combo Attack I	False		icon_skills.comboattack_tex
-10103	Common	Common	Ninja	Combo Attack I	False		icon_skills.comboattack_tex
-10104	Common	Common	Ninja	Combo Attack I	False		icon_skills.comboattack_tex
-10105	Common	Common	Ninja	Combo Attack I	False		icon_skills.comboattack_tex
-10106	Common	Common	Ninja	Combo Attack I	False		icon_skills.comboattack_tex
-10130	Common	Common	Ninja	Combo Attack I	False		icon_skills.comboattack_tex
-10140	Common	Common	Ninja	Combo Attack I	False		icon_skills.comboattack_tex
-10141	Common	Common	Ninja	Combo Attack I	False		icon_skills.comboattack_tex
-10142	Common	Common	Ninja	Combo Attack I	False		icon_skills.comboattack_tex
-10143	Common	Common	Ninja	Combo Attack I	False		icon_skills.comboattack_tex
-10144	Common	Common	Ninja	Combo Attack I	False		icon_skills.comboattack_tex
-10145	Common	Common	Ninja	Combo Attack I	False		icon_skills.comboattack_tex
-10146	Common	Common	Ninja	Combo Attack I	False		icon_skills.comboattack_tex
-10170	Common	Common	Ninja	Combo Attack I	False		icon_skills.comboattack_tex
+10101	Common	Common	Ninja	Combo Attack I	False		icon_skills.c12_meleecombo
+10102	Common	Common	Ninja	Combo Attack I	False		icon_skills.c12_meleecombo
+10103	Common	Common	Ninja	Combo Attack I	False		icon_skills.c12_meleecombo
+10104	Common	Common	Ninja	Combo Attack I	False		icon_skills.c12_meleecombo
+10105	Common	Common	Ninja	Combo Attack I	False		icon_skills.c12_meleecombo
+10106	Common	Common	Ninja	Combo Attack I	False		icon_skills.c12_meleecombo
+10130	Common	Common	Ninja	Combo Attack I	False		icon_skills.c12_meleecombo
+10140	Common	Common	Ninja	Combo Attack I	False		icon_skills.c12_meleecombo
+10141	Common	Common	Ninja	Combo Attack I	False		icon_skills.c12_meleecombo
+10142	Common	Common	Ninja	Combo Attack I	False		icon_skills.c12_meleecombo
+10143	Common	Common	Ninja	Combo Attack I	False		icon_skills.c12_meleecombo
+10144	Common	Common	Ninja	Combo Attack I	False		icon_skills.c12_meleecombo
+10145	Common	Common	Ninja	Combo Attack I	False		icon_skills.c12_meleecombo
+10146	Common	Common	Ninja	Combo Attack I	False		icon_skills.c12_meleecombo
+10170	Common	Common	Ninja	Combo Attack I	False		icon_skills.c12_meleecombo
 10200	Common	Common	Ninja	Combo Attack II	False		icon_skills.c12_meleecombo
-10201	Common	Common	Ninja	Combo Attack II	False		icon_skills.comboattack_tex
-10202	Common	Common	Ninja	Combo Attack II	False		icon_skills.comboattack_tex
-10203	Common	Common	Ninja	Combo Attack II	False		icon_skills.comboattack_tex
-10204	Common	Common	Ninja	Combo Attack II	False		icon_skills.comboattack_tex
-10205	Common	Common	Ninja	Combo Attack II	False		icon_skills.comboattack_tex
-10206	Common	Common	Ninja	Combo Attack II	False		icon_skills.comboattack_tex
-10230	Common	Common	Ninja	Combo Attack II	False		icon_skills.comboattack_tex
-10240	Common	Common	Ninja	Combo Attack II	False		icon_skills.comboattack_tex
-10241	Common	Common	Ninja	Combo Attack II	False		icon_skills.comboattack_tex
-10242	Common	Common	Ninja	Combo Attack II	False		icon_skills.comboattack_tex
-10243	Common	Common	Ninja	Combo Attack II	False		icon_skills.comboattack_tex
-10244	Common	Common	Ninja	Combo Attack II	False		icon_skills.comboattack_tex
-10245	Common	Common	Ninja	Combo Attack II	False		icon_skills.comboattack_tex
-10246	Common	Common	Ninja	Combo Attack II	False		icon_skills.comboattack_tex
-10270	Common	Common	Ninja	Combo Attack II	False		icon_skills.comboattack_tex
+10201	Common	Common	Ninja	Combo Attack II	False		icon_skills.c12_meleecombo
+10202	Common	Common	Ninja	Combo Attack II	False		icon_skills.c12_meleecombo
+10203	Common	Common	Ninja	Combo Attack II	False		icon_skills.c12_meleecombo
+10204	Common	Common	Ninja	Combo Attack II	False		icon_skills.c12_meleecombo
+10205	Common	Common	Ninja	Combo Attack II	False		icon_skills.c12_meleecombo
+10206	Common	Common	Ninja	Combo Attack II	False		icon_skills.c12_meleecombo
+10230	Common	Common	Ninja	Combo Attack II	False		icon_skills.c12_meleecombo
+10240	Common	Common	Ninja	Combo Attack II	False		icon_skills.c12_meleecombo
+10241	Common	Common	Ninja	Combo Attack II	False		icon_skills.c12_meleecombo
+10242	Common	Common	Ninja	Combo Attack II	False		icon_skills.c12_meleecombo
+10243	Common	Common	Ninja	Combo Attack II	False		icon_skills.c12_meleecombo
+10244	Common	Common	Ninja	Combo Attack II	False		icon_skills.c12_meleecombo
+10245	Common	Common	Ninja	Combo Attack II	False		icon_skills.c12_meleecombo
+10246	Common	Common	Ninja	Combo Attack II	False		icon_skills.c12_meleecombo
+10270	Common	Common	Ninja	Combo Attack II	False		icon_skills.c12_meleecombo
 10300	Common	Common	Ninja	Combo Attack III	False		icon_skills.c12_meleecombo
-10301	Common	Common	Ninja	Combo Attack III	False		icon_skills.comboattack_tex
-10302	Common	Common	Ninja	Combo Attack III	False		icon_skills.comboattack_tex
-10303	Common	Common	Ninja	Combo Attack III	False		icon_skills.comboattack_tex
-10304	Common	Common	Ninja	Combo Attack III	False		icon_skills.comboattack_tex
-10305	Common	Common	Ninja	Combo Attack III	False		icon_skills.comboattack_tex
-10306	Common	Common	Ninja	Combo Attack III	False		icon_skills.comboattack_tex
-10330	Common	Common	Ninja	Combo Attack III	False		icon_skills.comboattack_tex
-10340	Common	Common	Ninja	Combo Attack III	False		icon_skills.comboattack_tex
-10341	Common	Common	Ninja	Combo Attack III	False		icon_skills.comboattack_tex
-10342	Common	Common	Ninja	Combo Attack III	False		icon_skills.comboattack_tex
-10343	Common	Common	Ninja	Combo Attack III	False		icon_skills.comboattack_tex
-10344	Common	Common	Ninja	Combo Attack III	False		icon_skills.comboattack_tex
-10345	Common	Common	Ninja	Combo Attack III	False		icon_skills.comboattack_tex
-10346	Common	Common	Ninja	Combo Attack III	False		icon_skills.comboattack_tex
-10370	Common	Common	Ninja	Combo Attack III	False		icon_skills.comboattack_tex
+10301	Common	Common	Ninja	Combo Attack III	False		icon_skills.c12_meleecombo
+10302	Common	Common	Ninja	Combo Attack III	False		icon_skills.c12_meleecombo
+10303	Common	Common	Ninja	Combo Attack III	False		icon_skills.c12_meleecombo
+10304	Common	Common	Ninja	Combo Attack III	False		icon_skills.c12_meleecombo
+10305	Common	Common	Ninja	Combo Attack III	False		icon_skills.c12_meleecombo
+10306	Common	Common	Ninja	Combo Attack III	False		icon_skills.c12_meleecombo
+10330	Common	Common	Ninja	Combo Attack III	False		icon_skills.c12_meleecombo
+10340	Common	Common	Ninja	Combo Attack III	False		icon_skills.c12_meleecombo
+10341	Common	Common	Ninja	Combo Attack III	False		icon_skills.c12_meleecombo
+10342	Common	Common	Ninja	Combo Attack III	False		icon_skills.c12_meleecombo
+10343	Common	Common	Ninja	Combo Attack III	False		icon_skills.c12_meleecombo
+10344	Common	Common	Ninja	Combo Attack III	False		icon_skills.c12_meleecombo
+10345	Common	Common	Ninja	Combo Attack III	False		icon_skills.c12_meleecombo
+10346	Common	Common	Ninja	Combo Attack III	False		icon_skills.c12_meleecombo
+10370	Common	Common	Ninja	Combo Attack III	False		icon_skills.c12_meleecombo
 10400	Common	Common	Ninja	Combo Attack IV	False		icon_skills.c12_meleecombo
-10401	Common	Common	Ninja	Combo Attack IV	False		icon_skills.comboattack_tex
-10402	Common	Common	Ninja	Combo Attack IV	False		icon_skills.comboattack_tex
-10403	Common	Common	Ninja	Combo Attack IV	False		icon_skills.comboattack_tex
-10404	Common	Common	Ninja	Combo Attack IV	False		icon_skills.comboattack_tex
-10405	Common	Common	Ninja	Combo Attack IV	False		icon_skills.comboattack_tex
-10406	Common	Common	Ninja	Combo Attack IV	False		icon_skills.comboattack_tex
-10430	Common	Common	Ninja	Combo Attack IV	False		icon_skills.comboattack_tex
-10440	Common	Common	Ninja	Combo Attack IV	False		icon_skills.comboattack_tex
-10441	Common	Common	Ninja	Combo Attack IV	False		icon_skills.comboattack_tex
-10442	Common	Common	Ninja	Combo Attack IV	False		icon_skills.comboattack_tex
-10443	Common	Common	Ninja	Combo Attack IV	False		icon_skills.comboattack_tex
-10444	Common	Common	Ninja	Combo Attack IV	False		icon_skills.comboattack_tex
-10445	Common	Common	Ninja	Combo Attack IV	False		icon_skills.comboattack_tex
-10446	Common	Common	Ninja	Combo Attack IV	False		icon_skills.comboattack_tex
-10470	Common	Common	Ninja	Combo Attack IV	False		icon_skills.comboattack_tex
+10401	Common	Common	Ninja	Combo Attack IV	False		icon_skills.c12_meleecombo
+10402	Common	Common	Ninja	Combo Attack IV	False		icon_skills.c12_meleecombo
+10403	Common	Common	Ninja	Combo Attack IV	False		icon_skills.c12_meleecombo
+10404	Common	Common	Ninja	Combo Attack IV	False		icon_skills.c12_meleecombo
+10405	Common	Common	Ninja	Combo Attack IV	False		icon_skills.c12_meleecombo
+10406	Common	Common	Ninja	Combo Attack IV	False		icon_skills.c12_meleecombo
+10430	Common	Common	Ninja	Combo Attack IV	False		icon_skills.c12_meleecombo
+10440	Common	Common	Ninja	Combo Attack IV	False		icon_skills.c12_meleecombo
+10441	Common	Common	Ninja	Combo Attack IV	False		icon_skills.c12_meleecombo
+10442	Common	Common	Ninja	Combo Attack IV	False		icon_skills.c12_meleecombo
+10443	Common	Common	Ninja	Combo Attack IV	False		icon_skills.c12_meleecombo
+10444	Common	Common	Ninja	Combo Attack IV	False		icon_skills.c12_meleecombo
+10445	Common	Common	Ninja	Combo Attack IV	False		icon_skills.c12_meleecombo
+10446	Common	Common	Ninja	Combo Attack IV	False		icon_skills.c12_meleecombo
+10470	Common	Common	Ninja	Combo Attack IV	False		icon_skills.c12_meleecombo
 10500	Common	Common	Ninja	Combo Attack V	False		icon_skills.c12_meleecombo
-10501	Common	Common	Ninja	Combo Attack V	False		icon_skills.comboattack_tex
-10502	Common	Common	Ninja	Combo Attack V	False		icon_skills.comboattack_tex
-10503	Common	Common	Ninja	Combo Attack V	False		icon_skills.comboattack_tex
-10504	Common	Common	Ninja	Combo Attack V	False		icon_skills.comboattack_tex
-10505	Common	Common	Ninja	Combo Attack V	False		icon_skills.comboattack_tex
-10506	Common	Common	Ninja	Combo Attack V	False		icon_skills.comboattack_tex
-10530	Common	Common	Ninja	Combo Attack V	False		icon_skills.comboattack_tex
-10540	Common	Common	Ninja	Combo Attack V	False		icon_skills.comboattack_tex
-10541	Common	Common	Ninja	Combo Attack V	False		icon_skills.comboattack_tex
-10542	Common	Common	Ninja	Combo Attack V	False		icon_skills.comboattack_tex
-10543	Common	Common	Ninja	Combo Attack V	False		icon_skills.comboattack_tex
-10544	Common	Common	Ninja	Combo Attack V	False		icon_skills.comboattack_tex
-10545	Common	Common	Ninja	Combo Attack V	False		icon_skills.comboattack_tex
-10546	Common	Common	Ninja	Combo Attack V	False		icon_skills.comboattack_tex
-10570	Common	Common	Ninja	Combo Attack V	False		icon_skills.comboattack_tex
+10501	Common	Common	Ninja	Combo Attack V	False		icon_skills.c12_meleecombo
+10502	Common	Common	Ninja	Combo Attack V	False		icon_skills.c12_meleecombo
+10503	Common	Common	Ninja	Combo Attack V	False		icon_skills.c12_meleecombo
+10504	Common	Common	Ninja	Combo Attack V	False		icon_skills.c12_meleecombo
+10505	Common	Common	Ninja	Combo Attack V	False		icon_skills.c12_meleecombo
+10506	Common	Common	Ninja	Combo Attack V	False		icon_skills.c12_meleecombo
+10530	Common	Common	Ninja	Combo Attack V	False		icon_skills.c12_meleecombo
+10540	Common	Common	Ninja	Combo Attack V	False		icon_skills.c12_meleecombo
+10541	Common	Common	Ninja	Combo Attack V	False		icon_skills.c12_meleecombo
+10542	Common	Common	Ninja	Combo Attack V	False		icon_skills.c12_meleecombo
+10543	Common	Common	Ninja	Combo Attack V	False		icon_skills.c12_meleecombo
+10544	Common	Common	Ninja	Combo Attack V	False		icon_skills.c12_meleecombo
+10545	Common	Common	Ninja	Combo Attack V	False		icon_skills.c12_meleecombo
+10546	Common	Common	Ninja	Combo Attack V	False		icon_skills.c12_meleecombo
+10570	Common	Common	Ninja	Combo Attack V	False		icon_skills.c12_meleecombo
 10600	Common	Common	Ninja	Combo Attack VI	False		icon_skills.c12_meleecombo
-10601	Common	Common	Ninja	Combo Attack VI	False		icon_skills.comboattack_tex
-10602	Common	Common	Ninja	Combo Attack VI	False		icon_skills.comboattack_tex
-10603	Common	Common	Ninja	Combo Attack VI	False		icon_skills.comboattack_tex
-10604	Common	Common	Ninja	Combo Attack VI	False		icon_skills.comboattack_tex
-10605	Common	Common	Ninja	Combo Attack VI	False		icon_skills.comboattack_tex
-10606	Common	Common	Ninja	Combo Attack VI	False		icon_skills.comboattack_tex
-10630	Common	Common	Ninja	Combo Attack VI	False		icon_skills.comboattack_tex
-10640	Common	Common	Ninja	Combo Attack VI	False		icon_skills.comboattack_tex
-10641	Common	Common	Ninja	Combo Attack VI	False		icon_skills.comboattack_tex
-10642	Common	Common	Ninja	Combo Attack VI	False		icon_skills.comboattack_tex
-10643	Common	Common	Ninja	Combo Attack VI	False		icon_skills.comboattack_tex
-10644	Common	Common	Ninja	Combo Attack VI	False		icon_skills.comboattack_tex
-10645	Common	Common	Ninja	Combo Attack VI	False		icon_skills.comboattack_tex
-10646	Common	Common	Ninja	Combo Attack VI	False		icon_skills.comboattack_tex
-10670	Common	Common	Ninja	Combo Attack VI	False		icon_skills.comboattack_tex
+10601	Common	Common	Ninja	Combo Attack VI	False		icon_skills.c12_meleecombo
+10602	Common	Common	Ninja	Combo Attack VI	False		icon_skills.c12_meleecombo
+10603	Common	Common	Ninja	Combo Attack VI	False		icon_skills.c12_meleecombo
+10604	Common	Common	Ninja	Combo Attack VI	False		icon_skills.c12_meleecombo
+10605	Common	Common	Ninja	Combo Attack VI	False		icon_skills.c12_meleecombo
+10606	Common	Common	Ninja	Combo Attack VI	False		icon_skills.c12_meleecombo
+10630	Common	Common	Ninja	Combo Attack VI	False		icon_skills.c12_meleecombo
+10640	Common	Common	Ninja	Combo Attack VI	False		icon_skills.c12_meleecombo
+10641	Common	Common	Ninja	Combo Attack VI	False		icon_skills.c12_meleecombo
+10642	Common	Common	Ninja	Combo Attack VI	False		icon_skills.c12_meleecombo
+10643	Common	Common	Ninja	Combo Attack VI	False		icon_skills.c12_meleecombo
+10644	Common	Common	Ninja	Combo Attack VI	False		icon_skills.c12_meleecombo
+10645	Common	Common	Ninja	Combo Attack VI	False		icon_skills.c12_meleecombo
+10646	Common	Common	Ninja	Combo Attack VI	False		icon_skills.c12_meleecombo
+10670	Common	Common	Ninja	Combo Attack VI	False		icon_skills.c12_meleecombo
 10700	Common	Common	Ninja	Combo Attack VII	False		icon_skills.c12_meleecombo
-10701	Common	Common	Ninja	Combo Attack VII	False		icon_skills.comboattack_tex
-10702	Common	Common	Ninja	Combo Attack VII	False		icon_skills.comboattack_tex
-10703	Common	Common	Ninja	Combo Attack VII	False		icon_skills.comboattack_tex
-10704	Common	Common	Ninja	Combo Attack VII	False		icon_skills.comboattack_tex
-10705	Common	Common	Ninja	Combo Attack VII	False		icon_skills.comboattack_tex
-10706	Common	Common	Ninja	Combo Attack VII	False		icon_skills.comboattack_tex
-10730	Common	Common	Ninja	Combo Attack VII	False		icon_skills.comboattack_tex
-10740	Common	Common	Ninja	Combo Attack VII	False		icon_skills.comboattack_tex
-10741	Common	Common	Ninja	Combo Attack VII	False		icon_skills.comboattack_tex
-10742	Common	Common	Ninja	Combo Attack VII	False		icon_skills.comboattack_tex
-10743	Common	Common	Ninja	Combo Attack VII	False		icon_skills.comboattack_tex
-10744	Common	Common	Ninja	Combo Attack VII	False		icon_skills.comboattack_tex
-10745	Common	Common	Ninja	Combo Attack VII	False		icon_skills.comboattack_tex
-10746	Common	Common	Ninja	Combo Attack VII	False		icon_skills.comboattack_tex
-10770	Common	Common	Ninja	Combo Attack VII	False		icon_skills.comboattack_tex
+10701	Common	Common	Ninja	Combo Attack VII	False		icon_skills.c12_meleecombo
+10702	Common	Common	Ninja	Combo Attack VII	False		icon_skills.c12_meleecombo
+10703	Common	Common	Ninja	Combo Attack VII	False		icon_skills.c12_meleecombo
+10704	Common	Common	Ninja	Combo Attack VII	False		icon_skills.c12_meleecombo
+10705	Common	Common	Ninja	Combo Attack VII	False		icon_skills.c12_meleecombo
+10706	Common	Common	Ninja	Combo Attack VII	False		icon_skills.c12_meleecombo
+10730	Common	Common	Ninja	Combo Attack VII	False		icon_skills.c12_meleecombo
+10740	Common	Common	Ninja	Combo Attack VII	False		icon_skills.c12_meleecombo
+10741	Common	Common	Ninja	Combo Attack VII	False		icon_skills.c12_meleecombo
+10742	Common	Common	Ninja	Combo Attack VII	False		icon_skills.c12_meleecombo
+10743	Common	Common	Ninja	Combo Attack VII	False		icon_skills.c12_meleecombo
+10744	Common	Common	Ninja	Combo Attack VII	False		icon_skills.c12_meleecombo
+10745	Common	Common	Ninja	Combo Attack VII	False		icon_skills.c12_meleecombo
+10746	Common	Common	Ninja	Combo Attack VII	False		icon_skills.c12_meleecombo
+10770	Common	Common	Ninja	Combo Attack VII	False		icon_skills.c12_meleecombo
 10800	Common	Common	Ninja	Combo Attack VIII	False		icon_skills.c12_meleecombo
-10801	Common	Common	Ninja	Combo Attack VIII	False		icon_skills.comboattack_tex
-10802	Common	Common	Ninja	Combo Attack VIII	False		icon_skills.comboattack_tex
-10803	Common	Common	Ninja	Combo Attack VIII	False		icon_skills.comboattack_tex
-10804	Common	Common	Ninja	Combo Attack VIII	False		icon_skills.comboattack_tex
-10805	Common	Common	Ninja	Combo Attack VIII	False		icon_skills.comboattack_tex
-10806	Common	Common	Ninja	Combo Attack VIII	False		icon_skills.comboattack_tex
-10830	Common	Common	Ninja	Combo Attack VIII	False		icon_skills.comboattack_tex
-10840	Common	Common	Ninja	Combo Attack VIII	False		icon_skills.comboattack_tex
-10841	Common	Common	Ninja	Combo Attack VIII	False		icon_skills.comboattack_tex
-10842	Common	Common	Ninja	Combo Attack VIII	False		icon_skills.comboattack_tex
-10843	Common	Common	Ninja	Combo Attack VIII	False		icon_skills.comboattack_tex
-10844	Common	Common	Ninja	Combo Attack VIII	False		icon_skills.comboattack_tex
-10845	Common	Common	Ninja	Combo Attack VIII	False		icon_skills.comboattack_tex
-10846	Common	Common	Ninja	Combo Attack VIII	False		icon_skills.comboattack_tex
-10870	Common	Common	Ninja	Combo Attack VIII	False		icon_skills.comboattack_tex
+10801	Common	Common	Ninja	Combo Attack VIII	False		icon_skills.c12_meleecombo
+10802	Common	Common	Ninja	Combo Attack VIII	False		icon_skills.c12_meleecombo
+10803	Common	Common	Ninja	Combo Attack VIII	False		icon_skills.c12_meleecombo
+10804	Common	Common	Ninja	Combo Attack VIII	False		icon_skills.c12_meleecombo
+10805	Common	Common	Ninja	Combo Attack VIII	False		icon_skills.c12_meleecombo
+10806	Common	Common	Ninja	Combo Attack VIII	False		icon_skills.c12_meleecombo
+10830	Common	Common	Ninja	Combo Attack VIII	False		icon_skills.c12_meleecombo
+10840	Common	Common	Ninja	Combo Attack VIII	False		icon_skills.c12_meleecombo
+10841	Common	Common	Ninja	Combo Attack VIII	False		icon_skills.c12_meleecombo
+10842	Common	Common	Ninja	Combo Attack VIII	False		icon_skills.c12_meleecombo
+10843	Common	Common	Ninja	Combo Attack VIII	False		icon_skills.c12_meleecombo
+10844	Common	Common	Ninja	Combo Attack VIII	False		icon_skills.c12_meleecombo
+10845	Common	Common	Ninja	Combo Attack VIII	False		icon_skills.c12_meleecombo
+10846	Common	Common	Ninja	Combo Attack VIII	False		icon_skills.c12_meleecombo
+10870	Common	Common	Ninja	Combo Attack VIII	False		icon_skills.c12_meleecombo
 10900	Common	Common	Ninja	Combo Attack IX	False		icon_skills.c12_meleecombo
-10901	Common	Common	Ninja	Combo Attack IX	False		icon_skills.comboattack_tex
-10902	Common	Common	Ninja	Combo Attack IX	False		icon_skills.comboattack_tex
-10903	Common	Common	Ninja	Combo Attack IX	False		icon_skills.comboattack_tex
-10904	Common	Common	Ninja	Combo Attack IX	False		icon_skills.comboattack_tex
-10905	Common	Common	Ninja	Combo Attack IX	False		icon_skills.comboattack_tex
-10906	Common	Common	Ninja	Combo Attack IX	False		icon_skills.comboattack_tex
-10930	Common	Common	Ninja	Combo Attack IX	False		icon_skills.comboattack_tex
-10940	Common	Common	Ninja	Combo Attack IX	False		icon_skills.comboattack_tex
-10941	Common	Common	Ninja	Combo Attack IX	False		icon_skills.comboattack_tex
-10942	Common	Common	Ninja	Combo Attack IX	False		icon_skills.comboattack_tex
-10943	Common	Common	Ninja	Combo Attack IX	False		icon_skills.comboattack_tex
-10944	Common	Common	Ninja	Combo Attack IX	False		icon_skills.comboattack_tex
-10945	Common	Common	Ninja	Combo Attack IX	False		icon_skills.comboattack_tex
-10946	Common	Common	Ninja	Combo Attack IX	False		icon_skills.comboattack_tex
-10970	Common	Common	Ninja	Combo Attack IX	False		icon_skills.comboattack_tex
+10901	Common	Common	Ninja	Combo Attack IX	False		icon_skills.c12_meleecombo
+10902	Common	Common	Ninja	Combo Attack IX	False		icon_skills.c12_meleecombo
+10903	Common	Common	Ninja	Combo Attack IX	False		icon_skills.c12_meleecombo
+10904	Common	Common	Ninja	Combo Attack IX	False		icon_skills.c12_meleecombo
+10905	Common	Common	Ninja	Combo Attack IX	False		icon_skills.c12_meleecombo
+10906	Common	Common	Ninja	Combo Attack IX	False		icon_skills.c12_meleecombo
+10930	Common	Common	Ninja	Combo Attack IX	False		icon_skills.c12_meleecombo
+10940	Common	Common	Ninja	Combo Attack IX	False		icon_skills.c12_meleecombo
+10941	Common	Common	Ninja	Combo Attack IX	False		icon_skills.c12_meleecombo
+10942	Common	Common	Ninja	Combo Attack IX	False		icon_skills.c12_meleecombo
+10943	Common	Common	Ninja	Combo Attack IX	False		icon_skills.c12_meleecombo
+10944	Common	Common	Ninja	Combo Attack IX	False		icon_skills.c12_meleecombo
+10945	Common	Common	Ninja	Combo Attack IX	False		icon_skills.c12_meleecombo
+10946	Common	Common	Ninja	Combo Attack IX	False		icon_skills.c12_meleecombo
+10970	Common	Common	Ninja	Combo Attack IX	False		icon_skills.c12_meleecombo
 11000	Common	Common	Ninja	Combo Attack X	False		icon_skills.c12_meleecombo
-11001	Common	Common	Ninja	Combo Attack X	False		icon_skills.comboattack_tex
-11002	Common	Common	Ninja	Combo Attack X	False		icon_skills.comboattack_tex
-11003	Common	Common	Ninja	Combo Attack X	False		icon_skills.comboattack_tex
-11004	Common	Common	Ninja	Combo Attack X	False		icon_skills.comboattack_tex
-11005	Common	Common	Ninja	Combo Attack X	False		icon_skills.comboattack_tex
-11006	Common	Common	Ninja	Combo Attack X	False		icon_skills.comboattack_tex
-11030	Common	Common	Ninja	Combo Attack X	False		icon_skills.comboattack_tex
-11040	Common	Common	Ninja	Combo Attack X	False		icon_skills.comboattack_tex
-11041	Common	Common	Ninja	Combo Attack X	False		icon_skills.comboattack_tex
-11042	Common	Common	Ninja	Combo Attack X	False		icon_skills.comboattack_tex
-11043	Common	Common	Ninja	Combo Attack X	False		icon_skills.comboattack_tex
-11044	Common	Common	Ninja	Combo Attack X	False		icon_skills.comboattack_tex
-11045	Common	Common	Ninja	Combo Attack X	False		icon_skills.comboattack_tex
-11046	Common	Common	Ninja	Combo Attack X	False		icon_skills.comboattack_tex
-11070	Common	Common	Ninja	Combo Attack X	False		icon_skills.comboattack_tex
+11001	Common	Common	Ninja	Combo Attack X	False		icon_skills.c12_meleecombo
+11002	Common	Common	Ninja	Combo Attack X	False		icon_skills.c12_meleecombo
+11003	Common	Common	Ninja	Combo Attack X	False		icon_skills.c12_meleecombo
+11004	Common	Common	Ninja	Combo Attack X	False		icon_skills.c12_meleecombo
+11005	Common	Common	Ninja	Combo Attack X	False		icon_skills.c12_meleecombo
+11006	Common	Common	Ninja	Combo Attack X	False		icon_skills.c12_meleecombo
+11030	Common	Common	Ninja	Combo Attack X	False		icon_skills.c12_meleecombo
+11040	Common	Common	Ninja	Combo Attack X	False		icon_skills.c12_meleecombo
+11041	Common	Common	Ninja	Combo Attack X	False		icon_skills.c12_meleecombo
+11042	Common	Common	Ninja	Combo Attack X	False		icon_skills.c12_meleecombo
+11043	Common	Common	Ninja	Combo Attack X	False		icon_skills.c12_meleecombo
+11044	Common	Common	Ninja	Combo Attack X	False		icon_skills.c12_meleecombo
+11045	Common	Common	Ninja	Combo Attack X	False		icon_skills.c12_meleecombo
+11046	Common	Common	Ninja	Combo Attack X	False		icon_skills.c12_meleecombo
+11070	Common	Common	Ninja	Combo Attack X	False		icon_skills.c12_meleecombo
 11100	Common	Common	Ninja	Combo Attack XI	False		icon_skills.c12_meleecombo
-11101	Common	Common	Ninja	Combo Attack XI	False		icon_skills.comboattack_tex
-11102	Common	Common	Ninja	Combo Attack XI	False		icon_skills.comboattack_tex
-11103	Common	Common	Ninja	Combo Attack XI	False		icon_skills.comboattack_tex
-11104	Common	Common	Ninja	Combo Attack XI	False		icon_skills.comboattack_tex
-11105	Common	Common	Ninja	Combo Attack XI	False		icon_skills.comboattack_tex
-11106	Common	Common	Ninja	Combo Attack XI	False		icon_skills.comboattack_tex
-11130	Common	Common	Ninja	Combo Attack XI	False		icon_skills.comboattack_tex
-11140	Common	Common	Ninja	Combo Attack XI	False		icon_skills.comboattack_tex
-11141	Common	Common	Ninja	Combo Attack XI	False		icon_skills.comboattack_tex
-11142	Common	Common	Ninja	Combo Attack XI	False		icon_skills.comboattack_tex
-11143	Common	Common	Ninja	Combo Attack XI	False		icon_skills.comboattack_tex
-11144	Common	Common	Ninja	Combo Attack XI	False		icon_skills.comboattack_tex
-11145	Common	Common	Ninja	Combo Attack XI	False		icon_skills.comboattack_tex
-11146	Common	Common	Ninja	Combo Attack XI	False		icon_skills.comboattack_tex
-11170	Common	Common	Ninja	Combo Attack XI	False		icon_skills.comboattack_tex
+11101	Common	Common	Ninja	Combo Attack XI	False		icon_skills.c12_meleecombo
+11102	Common	Common	Ninja	Combo Attack XI	False		icon_skills.c12_meleecombo
+11103	Common	Common	Ninja	Combo Attack XI	False		icon_skills.c12_meleecombo
+11104	Common	Common	Ninja	Combo Attack XI	False		icon_skills.c12_meleecombo
+11105	Common	Common	Ninja	Combo Attack XI	False		icon_skills.c12_meleecombo
+11106	Common	Common	Ninja	Combo Attack XI	False		icon_skills.c12_meleecombo
+11130	Common	Common	Ninja	Combo Attack XI	False		icon_skills.c12_meleecombo
+11140	Common	Common	Ninja	Combo Attack XI	False		icon_skills.c12_meleecombo
+11141	Common	Common	Ninja	Combo Attack XI	False		icon_skills.c12_meleecombo
+11142	Common	Common	Ninja	Combo Attack XI	False		icon_skills.c12_meleecombo
+11143	Common	Common	Ninja	Combo Attack XI	False		icon_skills.c12_meleecombo
+11144	Common	Common	Ninja	Combo Attack XI	False		icon_skills.c12_meleecombo
+11145	Common	Common	Ninja	Combo Attack XI	False		icon_skills.c12_meleecombo
+11146	Common	Common	Ninja	Combo Attack XI	False		icon_skills.c12_meleecombo
+11170	Common	Common	Ninja	Combo Attack XI	False		icon_skills.c12_meleecombo
 11200	Common	Common	Ninja	Combo Attack XII	False		icon_skills.c12_meleecombo
-11201	Common	Common	Ninja	Combo Attack XII	False		icon_skills.comboattack_tex
-11202	Common	Common	Ninja	Combo Attack XII	False		icon_skills.comboattack_tex
-11203	Common	Common	Ninja	Combo Attack XII	False		icon_skills.comboattack_tex
-11204	Common	Common	Ninja	Combo Attack XII	False		icon_skills.comboattack_tex
-11205	Common	Common	Ninja	Combo Attack XII	False		icon_skills.comboattack_tex
-11206	Common	Common	Ninja	Combo Attack XII	False		icon_skills.comboattack_tex
-11230	Common	Common	Ninja	Combo Attack XII	False		icon_skills.comboattack_tex
-11240	Common	Common	Ninja	Combo Attack XII	False		icon_skills.comboattack_tex
-11241	Common	Common	Ninja	Combo Attack XII	False		icon_skills.comboattack_tex
-11242	Common	Common	Ninja	Combo Attack XII	False		icon_skills.comboattack_tex
-11243	Common	Common	Ninja	Combo Attack XII	False		icon_skills.comboattack_tex
-11244	Common	Common	Ninja	Combo Attack XII	False		icon_skills.comboattack_tex
-11245	Common	Common	Ninja	Combo Attack XII	False		icon_skills.comboattack_tex
-11246	Common	Common	Ninja	Combo Attack XII	False		icon_skills.comboattack_tex
-11270	Common	Common	Ninja	Combo Attack XII	False		icon_skills.comboattack_tex
+11201	Common	Common	Ninja	Combo Attack XII	False		icon_skills.c12_meleecombo
+11202	Common	Common	Ninja	Combo Attack XII	False		icon_skills.c12_meleecombo
+11203	Common	Common	Ninja	Combo Attack XII	False		icon_skills.c12_meleecombo
+11204	Common	Common	Ninja	Combo Attack XII	False		icon_skills.c12_meleecombo
+11205	Common	Common	Ninja	Combo Attack XII	False		icon_skills.c12_meleecombo
+11206	Common	Common	Ninja	Combo Attack XII	False		icon_skills.c12_meleecombo
+11230	Common	Common	Ninja	Combo Attack XII	False		icon_skills.c12_meleecombo
+11240	Common	Common	Ninja	Combo Attack XII	False		icon_skills.c12_meleecombo
+11241	Common	Common	Ninja	Combo Attack XII	False		icon_skills.c12_meleecombo
+11242	Common	Common	Ninja	Combo Attack XII	False		icon_skills.c12_meleecombo
+11243	Common	Common	Ninja	Combo Attack XII	False		icon_skills.c12_meleecombo
+11244	Common	Common	Ninja	Combo Attack XII	False		icon_skills.c12_meleecombo
+11245	Common	Common	Ninja	Combo Attack XII	False		icon_skills.c12_meleecombo
+11246	Common	Common	Ninja	Combo Attack XII	False		icon_skills.c12_meleecombo
+11270	Common	Common	Ninja	Combo Attack XII	False		icon_skills.c12_meleecombo
 20100	Common	Common	Ninja	Shadow Jump	False		icon_skills.c12_dash
 20130	Common	Common	Ninja	Shadow Jump	False		icon_skills.c12_dash
 30100	Common	Common	Ninja	Leaves on the Wind I	False		icon_skills.c12_rapidshot
@@ -4585,13 +4585,13 @@
 150280	Common	Common	Reaper	Retribution II	False		icon_skills.counterattack_tex
 150300	Common	Common	Reaper	Retribution III	False		icon_skills.counterattack_tex
 150301	Common	Common	Reaper	Reckoning	False		icon_skills.counterattack_awaken_tex
-150330	Common	Common	Reaper	Retribution III	False		icon_skills.counterattack_tex
+150330	Common	Common	Reaper	Counterpunch III	False		icon_skills.counterattack2_tex
 150380	Common	Common	Reaper	Retribution III	False		icon_skills.counterattack_tex
-150381	Common	Common	Reaper	Retribution III	False		icon_skills.counterattack_tex
-150382	Common	Common	Reaper	Retribution III	False		icon_skills.counterattack_tex
-150390	Common	Common	Reaper	Retribution III	False		icon_skills.counterattack_tex
-150391	Common	Common	Reaper	Retribution III	False		icon_skills.counterattack_tex
-150392	Common	Common	Reaper	Retribution III	False		icon_skills.counterattack_tex
+150381	Common	Common	Reaper	Counterpunch III	False		icon_skills.counterattack2_tex
+150382	Common	Common	Reaper	Counterpunch III	False		icon_skills.counterattack2_tex
+150390	Common	Common	Reaper	Counterpunch III	False		icon_skills.counterattack2_tex
+150391	Common	Common	Reaper	Counterpunch III	False		icon_skills.counterattack2_tex
+150392	Common	Common	Reaper	Counterpunch III	False		icon_skills.counterattack2_tex
 160100	Common	Common	Reaper	Shadow Reaping	False		icon_skills.descentofdarkness_tex
 163100	Common	Common	Reaper	Shadow Reaping	False		icon_skills.descentofdarkness_tex
 163200	Common	Common	Reaper	Shadow Reaping	False		icon_skills.descentofdarkness_tex
@@ -6628,7 +6628,7 @@
 160800	Common	Common	Warrior	Charging Slash VIII	False		icon_skills.rushingslash_tex
 160801	Common	Common	Warrior	Charging Slash VIII	False		icon_skills.rushingslash_tex
 160900	Common	Common	Warrior	Charging Slash IX	False		icon_skills.rushingslash_tex
-160901	Common	Common	Warrior	Charging Slash IX	False		icon_skills.rushingslash_tex
+160901	Common	Common	Warrior	Charging Slash VI	False		icon_skills.rushingslash_tex
 161000	Common	Common	Warrior	Charging Slash X	False		icon_skills.rushingslash_tex
 161001	Common	Common	Warrior	Charging Slash X	False		icon_skills.rushingslash_tex
 170100	Common	Common	Warrior	Vortex Slash I	False		icon_skills.stormcut_tex
@@ -7846,6 +7846,7 @@
 11111100	Common	Common	Common	Expedition Summon: Blue Roan			icon_skills.horsebluedot_tex
 11111500	Common	Common	Common	Expedition Summon: Arcadian Dapple			icon_skills.horsepaint_tex
 11111700	Common	Common	Common	Expedition Summon: Velikan Gray			icon_skills.horsegray_tex
+11112000	Common	Common	Common	Revivified Lachelith			icon_items.pet_lachelith_tex
 11117100	Common	Common	Common	Summon: Regulus			icon_skills.trans_lion_lord_tex
 12000014	Common	Common	Common	Summon: Police Car			icon_skills.vehicle_policecar_tex
 12000015	Common	Common	Common	Summon: Silver Giraffe			icon_skills.vehicle_kirin_silver_tex
@@ -11312,10 +11313,6 @@
 19002278	Common	Common	Common	Smart Box: Punk Racer (7 Days)			icon_items.gift_box04_tex
 20691703	Common	Common	Common	Velika Guild Seal			icon_skills.guildskill0_buff1_tex
 20691704	Common	Common	Common	100 Guild Credits			icon_items.reputationpoint_tex
-20691709	Common	Common	Common	[Event] Red Bean Tteokguk			icon_items.event_ricebarsoup01_tex
-20691710	Common	Common	Common	[Event] Mandu Tteokguk			icon_items.event_ricebarsoup02_tex
-20691711	Common	Common	Common	[Event] Egg Tteokguk			icon_items.event_ricebarsoup03_tex
-20691712	Common	Common	Common	[Event] New Year Rice-cake Soup			icon_items.event_ricebarsoup04_tex
 22300001	Common	Common	Common	Fortune Firecrackers			icon_equipments.firecracker_tex
 22906000	Common	Common	Common	Woodstrider Point Teleport Scroll			icon_items.townrecall_tex
 23000000	Common	Common	Common	Summon: Elin Spyder			icon_equipments.vehicle_sportcar_c_tex
@@ -13421,6 +13418,7 @@
 65190049	Common	Common	Common	Greater Fury Hunter Potion			icon_items.decrease_aggro_potion_level_23_tex
 65190050	Common	Common	Common	Island of Dawn Loot Hunter Boost 100%			icon_items.potion8_tex
 65190051	Common	Common	Common	Grace of Dawn Mote			icon_items.potion2_tex
+65190056	Common	Common	Common	Pumpkin Bomb			icon_equipments.acc_031as
 65190060	Common	Common	Common	Kalash Dawn Mote			icon_items.potion2_tex
 65190061	Common	Common	Common	Kalash Dusk Mote			icon_items.potion4_tex
 65190062	Common	Common	Common	Kalash Mote			icon_items.potion2_tex
